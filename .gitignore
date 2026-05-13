@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite-dev.pid
+.vite-preview.pid
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example

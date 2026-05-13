@@ -1,0 +1,5101 @@
+{
+  "meta": {
+    "id": "mard-221",
+    "brand": "MARD",
+    "paletteName": "MARD 221",
+    "version": "1.0.0",
+    "colorCount": 221,
+    "source": "pindou.online/colors",
+    "updatedAt": "2026-05-11",
+    "notes": [
+      "Codes and hex values were extracted from the public MARD 221 palette page at pindou.online/colors.",
+      "Official localized color names were not present in the source page; name and nameZh currently mirror the code.",
+      "Lab values are precomputed from the extracted hex values for CIEDE2000 matching."
+    ]
+  },
+  "colors": [
+    {
+      "id": "mard-a1",
+      "code": "A1",
+      "name": "A1",
+      "nameZh": "A1",
+      "hex": "#FAF4C8",
+      "rgb": {
+        "r": 250,
+        "g": 244,
+        "b": 200
+      },
+      "lab": {
+        "l": 95.66,
+        "a": -4.93,
+        "b": 21.97
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A1"
+      ],
+      "sort": 1
+    },
+    {
+      "id": "mard-a10",
+      "code": "A10",
+      "name": "A10",
+      "nameZh": "A10",
+      "hex": "#F77C31",
+      "rgb": {
+        "r": 247,
+        "g": 124,
+        "b": 49
+      },
+      "lab": {
+        "l": 65.29,
+        "a": 42.52,
+        "b": 59.59
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A10"
+      ],
+      "sort": 2
+    },
+    {
+      "id": "mard-a11",
+      "code": "A11",
+      "name": "A11",
+      "nameZh": "A11",
+      "hex": "#FFDD99",
+      "rgb": {
+        "r": 255,
+        "g": 221,
+        "b": 153
+      },
+      "lab": {
+        "l": 89.52,
+        "a": 2.74,
+        "b": 37.72
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A11"
+      ],
+      "sort": 3
+    },
+    {
+      "id": "mard-a12",
+      "code": "A12",
+      "name": "A12",
+      "nameZh": "A12",
+      "hex": "#FE9F72",
+      "rgb": {
+        "r": 254,
+        "g": 159,
+        "b": 114
+      },
+      "lab": {
+        "l": 74.25,
+        "a": 30.95,
+        "b": 38.17
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A12"
+      ],
+      "sort": 4
+    },
+    {
+      "id": "mard-a13",
+      "code": "A13",
+      "name": "A13",
+      "nameZh": "A13",
+      "hex": "#FFC365",
+      "rgb": {
+        "r": 255,
+        "g": 195,
+        "b": 101
+      },
+      "lab": {
+        "l": 82.5,
+        "a": 11.61,
+        "b": 54.64
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A13"
+      ],
+      "sort": 5
+    },
+    {
+      "id": "mard-a14",
+      "code": "A14",
+      "name": "A14",
+      "nameZh": "A14",
+      "hex": "#FD543D",
+      "rgb": {
+        "r": 253,
+        "g": 84,
+        "b": 61
+      },
+      "lab": {
+        "l": 59.5,
+        "a": 62.91,
+        "b": 48.58
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A14"
+      ],
+      "sort": 6
+    },
+    {
+      "id": "mard-a15",
+      "code": "A15",
+      "name": "A15",
+      "nameZh": "A15",
+      "hex": "#FFF365",
+      "rgb": {
+        "r": 255,
+        "g": 243,
+        "b": 101
+      },
+      "lab": {
+        "l": 94.44,
+        "a": -12.69,
+        "b": 67.98
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A15"
+      ],
+      "sort": 7
+    },
+    {
+      "id": "mard-a16",
+      "code": "A16",
+      "name": "A16",
+      "nameZh": "A16",
+      "hex": "#FFFF9F",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 159
+      },
+      "lab": {
+        "l": 98.15,
+        "a": -13.6,
+        "b": 45.87
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A16"
+      ],
+      "sort": 8
+    },
+    {
+      "id": "mard-a17",
+      "code": "A17",
+      "name": "A17",
+      "nameZh": "A17",
+      "hex": "#FFE36E",
+      "rgb": {
+        "r": 255,
+        "g": 227,
+        "b": 110
+      },
+      "lab": {
+        "l": 90.47,
+        "a": -4.14,
+        "b": 59.64
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A17"
+      ],
+      "sort": 9
+    },
+    {
+      "id": "mard-a18",
+      "code": "A18",
+      "name": "A18",
+      "nameZh": "A18",
+      "hex": "#FEBE7D",
+      "rgb": {
+        "r": 254,
+        "g": 190,
+        "b": 125
+      },
+      "lab": {
+        "l": 81.5,
+        "a": 15.67,
+        "b": 41.62
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A18"
+      ],
+      "sort": 10
+    },
+    {
+      "id": "mard-a19",
+      "code": "A19",
+      "name": "A19",
+      "nameZh": "A19",
+      "hex": "#FD7C72",
+      "rgb": {
+        "r": 253,
+        "g": 124,
+        "b": 114
+      },
+      "lab": {
+        "l": 66.91,
+        "a": 48.26,
+        "b": 28.72
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A19"
+      ],
+      "sort": 11
+    },
+    {
+      "id": "mard-a2",
+      "code": "A2",
+      "name": "A2",
+      "nameZh": "A2",
+      "hex": "#FFFFD5",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 213
+      },
+      "lab": {
+        "l": 99.06,
+        "a": -6.76,
+        "b": 20.13
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A2"
+      ],
+      "sort": 12
+    },
+    {
+      "id": "mard-a20",
+      "code": "A20",
+      "name": "A20",
+      "nameZh": "A20",
+      "hex": "#FFD568",
+      "rgb": {
+        "r": 255,
+        "g": 213,
+        "b": 104
+      },
+      "lab": {
+        "l": 86.92,
+        "a": 2.53,
+        "b": 58.31
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A20"
+      ],
+      "sort": 13
+    },
+    {
+      "id": "mard-a21",
+      "code": "A21",
+      "name": "A21",
+      "nameZh": "A21",
+      "hex": "#FFE395",
+      "rgb": {
+        "r": 255,
+        "g": 227,
+        "b": 149
+      },
+      "lab": {
+        "l": 90.95,
+        "a": -0.73,
+        "b": 41.57
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A21"
+      ],
+      "sort": 14
+    },
+    {
+      "id": "mard-a22",
+      "code": "A22",
+      "name": "A22",
+      "nameZh": "A22",
+      "hex": "#F4F57D",
+      "rgb": {
+        "r": 244,
+        "g": 245,
+        "b": 125
+      },
+      "lab": {
+        "l": 94.32,
+        "a": -16.24,
+        "b": 57.07
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A22"
+      ],
+      "sort": 15
+    },
+    {
+      "id": "mard-a23",
+      "code": "A23",
+      "name": "A23",
+      "nameZh": "A23",
+      "hex": "#E6C9B7",
+      "rgb": {
+        "r": 230,
+        "g": 201,
+        "b": 183
+      },
+      "lab": {
+        "l": 82.92,
+        "a": 7.4,
+        "b": 12.74
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A23"
+      ],
+      "sort": 16
+    },
+    {
+      "id": "mard-a24",
+      "code": "A24",
+      "name": "A24",
+      "nameZh": "A24",
+      "hex": "#F7F8A2",
+      "rgb": {
+        "r": 247,
+        "g": 248,
+        "b": 162
+      },
+      "lab": {
+        "l": 95.8,
+        "a": -12.87,
+        "b": 41.26
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A24"
+      ],
+      "sort": 17
+    },
+    {
+      "id": "mard-a25",
+      "code": "A25",
+      "name": "A25",
+      "nameZh": "A25",
+      "hex": "#FFD67D",
+      "rgb": {
+        "r": 255,
+        "g": 214,
+        "b": 125
+      },
+      "lab": {
+        "l": 87.41,
+        "a": 3.64,
+        "b": 48.96
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A25"
+      ],
+      "sort": 18
+    },
+    {
+      "id": "mard-a26",
+      "code": "A26",
+      "name": "A26",
+      "nameZh": "A26",
+      "hex": "#FFC830",
+      "rgb": {
+        "r": 255,
+        "g": 200,
+        "b": 48
+      },
+      "lab": {
+        "l": 83.33,
+        "a": 6.49,
+        "b": 76.37
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A26"
+      ],
+      "sort": 19
+    },
+    {
+      "id": "mard-a3",
+      "code": "A3",
+      "name": "A3",
+      "nameZh": "A3",
+      "hex": "#FEFF8B",
+      "rgb": {
+        "r": 254,
+        "g": 255,
+        "b": 139
+      },
+      "lab": {
+        "l": 97.82,
+        "a": -15.97,
+        "b": 54.97
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A3"
+      ],
+      "sort": 20
+    },
+    {
+      "id": "mard-a4",
+      "code": "A4",
+      "name": "A4",
+      "nameZh": "A4",
+      "hex": "#FBED56",
+      "rgb": {
+        "r": 251,
+        "g": 237,
+        "b": 86
+      },
+      "lab": {
+        "l": 92.47,
+        "a": -12.26,
+        "b": 71.82
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A4"
+      ],
+      "sort": 21
+    },
+    {
+      "id": "mard-a5",
+      "code": "A5",
+      "name": "A5",
+      "nameZh": "A5",
+      "hex": "#F4D738",
+      "rgb": {
+        "r": 244,
+        "g": 215,
+        "b": 56
+      },
+      "lab": {
+        "l": 86.07,
+        "a": -5.56,
+        "b": 75.99
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A5"
+      ],
+      "sort": 22
+    },
+    {
+      "id": "mard-a6",
+      "code": "A6",
+      "name": "A6",
+      "nameZh": "A6",
+      "hex": "#FEAC4C",
+      "rgb": {
+        "r": 254,
+        "g": 172,
+        "b": 76
+      },
+      "lab": {
+        "l": 76.74,
+        "a": 21.74,
+        "b": 59.68
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A6"
+      ],
+      "sort": 23
+    },
+    {
+      "id": "mard-a7",
+      "code": "A7",
+      "name": "A7",
+      "nameZh": "A7",
+      "hex": "#FE8B4C",
+      "rgb": {
+        "r": 254,
+        "g": 139,
+        "b": 76
+      },
+      "lab": {
+        "l": 69.51,
+        "a": 38.8,
+        "b": 51.92
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A7"
+      ],
+      "sort": 24
+    },
+    {
+      "id": "mard-a8",
+      "code": "A8",
+      "name": "A8",
+      "nameZh": "A8",
+      "hex": "#FFDA45",
+      "rgb": {
+        "r": 255,
+        "g": 218,
+        "b": 69
+      },
+      "lab": {
+        "l": 87.89,
+        "a": -1.95,
+        "b": 73.7
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A8"
+      ],
+      "sort": 25
+    },
+    {
+      "id": "mard-a9",
+      "code": "A9",
+      "name": "A9",
+      "nameZh": "A9",
+      "hex": "#FF995B",
+      "rgb": {
+        "r": 255,
+        "g": 153,
+        "b": 91
+      },
+      "lab": {
+        "l": 72.76,
+        "a": 32.85,
+        "b": 48.22
+      },
+      "category": "series-A",
+      "available": true,
+      "aliases": [
+        "Mard_A9"
+      ],
+      "sort": 26
+    },
+    {
+      "id": "mard-b1",
+      "code": "B1",
+      "name": "B1",
+      "nameZh": "B1",
+      "hex": "#E6EE31",
+      "rgb": {
+        "r": 230,
+        "g": 238,
+        "b": 49
+      },
+      "lab": {
+        "l": 90.87,
+        "a": -22.94,
+        "b": 81.8
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B1"
+      ],
+      "sort": 27
+    },
+    {
+      "id": "mard-b10",
+      "code": "B10",
+      "name": "B10",
+      "nameZh": "B10",
+      "hex": "#95D3C2",
+      "rgb": {
+        "r": 149,
+        "g": 211,
+        "b": 194
+      },
+      "lab": {
+        "l": 80.11,
+        "a": -23.34,
+        "b": 2.09
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B10"
+      ],
+      "sort": 28
+    },
+    {
+      "id": "mard-b11",
+      "code": "B11",
+      "name": "B11",
+      "nameZh": "B11",
+      "hex": "#5D722A",
+      "rgb": {
+        "r": 93,
+        "g": 114,
+        "b": 42
+      },
+      "lab": {
+        "l": 44.98,
+        "a": -19.56,
+        "b": 36.42
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B11"
+      ],
+      "sort": 29
+    },
+    {
+      "id": "mard-b12",
+      "code": "B12",
+      "name": "B12",
+      "nameZh": "B12",
+      "hex": "#166F41",
+      "rgb": {
+        "r": 22,
+        "g": 111,
+        "b": 65
+      },
+      "lab": {
+        "l": 41.09,
+        "a": -36.8,
+        "b": 18.56
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B12"
+      ],
+      "sort": 30
+    },
+    {
+      "id": "mard-b13",
+      "code": "B13",
+      "name": "B13",
+      "nameZh": "B13",
+      "hex": "#CAEB7B",
+      "rgb": {
+        "r": 202,
+        "g": 235,
+        "b": 123
+      },
+      "lab": {
+        "l": 88.64,
+        "a": -27.81,
+        "b": 50.46
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B13"
+      ],
+      "sort": 31
+    },
+    {
+      "id": "mard-b14",
+      "code": "B14",
+      "name": "B14",
+      "nameZh": "B14",
+      "hex": "#ADE946",
+      "rgb": {
+        "r": 173,
+        "g": 233,
+        "b": 70
+      },
+      "lab": {
+        "l": 85.81,
+        "a": -42.1,
+        "b": 69.25
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B14"
+      ],
+      "sort": 32
+    },
+    {
+      "id": "mard-b15",
+      "code": "B15",
+      "name": "B15",
+      "nameZh": "B15",
+      "hex": "#2E5132",
+      "rgb": {
+        "r": 46,
+        "g": 81,
+        "b": 50
+      },
+      "lab": {
+        "l": 31.1,
+        "a": -20.24,
+        "b": 14.37
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B15"
+      ],
+      "sort": 33
+    },
+    {
+      "id": "mard-b16",
+      "code": "B16",
+      "name": "B16",
+      "nameZh": "B16",
+      "hex": "#C5ED9C",
+      "rgb": {
+        "r": 197,
+        "g": 237,
+        "b": 156
+      },
+      "lab": {
+        "l": 89.32,
+        "a": -26.69,
+        "b": 35.11
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B16"
+      ],
+      "sort": 34
+    },
+    {
+      "id": "mard-b17",
+      "code": "B17",
+      "name": "B17",
+      "nameZh": "B17",
+      "hex": "#9BB13A",
+      "rgb": {
+        "r": 155,
+        "g": 177,
+        "b": 58
+      },
+      "lab": {
+        "l": 68.55,
+        "a": -23.98,
+        "b": 55.85
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B17"
+      ],
+      "sort": 35
+    },
+    {
+      "id": "mard-b18",
+      "code": "B18",
+      "name": "B18",
+      "nameZh": "B18",
+      "hex": "#E6EE49",
+      "rgb": {
+        "r": 230,
+        "g": 238,
+        "b": 73
+      },
+      "lab": {
+        "l": 90.99,
+        "a": -21.97,
+        "b": 74.59
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B18"
+      ],
+      "sort": 36
+    },
+    {
+      "id": "mard-b19",
+      "code": "B19",
+      "name": "B19",
+      "nameZh": "B19",
+      "hex": "#24B88C",
+      "rgb": {
+        "r": 36,
+        "g": 184,
+        "b": 140
+      },
+      "lab": {
+        "l": 66.94,
+        "a": -47.72,
+        "b": 11.89
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B19"
+      ],
+      "sort": 37
+    },
+    {
+      "id": "mard-b2",
+      "code": "B2",
+      "name": "B2",
+      "nameZh": "B2",
+      "hex": "#63F347",
+      "rgb": {
+        "r": 99,
+        "g": 243,
+        "b": 71
+      },
+      "lab": {
+        "l": 85.61,
+        "a": -68.55,
+        "b": 67.68
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B2"
+      ],
+      "sort": 38
+    },
+    {
+      "id": "mard-b20",
+      "code": "B20",
+      "name": "B20",
+      "nameZh": "B20",
+      "hex": "#C2F0CC",
+      "rgb": {
+        "r": 194,
+        "g": 240,
+        "b": 204
+      },
+      "lab": {
+        "l": 90.85,
+        "a": -21.61,
+        "b": 12.59
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B20"
+      ],
+      "sort": 39
+    },
+    {
+      "id": "mard-b21",
+      "code": "B21",
+      "name": "B21",
+      "nameZh": "B21",
+      "hex": "#156A6B",
+      "rgb": {
+        "r": 21,
+        "g": 106,
+        "b": 107
+      },
+      "lab": {
+        "l": 40.46,
+        "a": -23.17,
+        "b": -7.55
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B21"
+      ],
+      "sort": 40
+    },
+    {
+      "id": "mard-b22",
+      "code": "B22",
+      "name": "B22",
+      "nameZh": "B22",
+      "hex": "#0B3C43",
+      "rgb": {
+        "r": 11,
+        "g": 60,
+        "b": 67
+      },
+      "lab": {
+        "l": 22.68,
+        "a": -12.92,
+        "b": -8.9
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B22"
+      ],
+      "sort": 41
+    },
+    {
+      "id": "mard-b23",
+      "code": "B23",
+      "name": "B23",
+      "nameZh": "B23",
+      "hex": "#303A21",
+      "rgb": {
+        "r": 48,
+        "g": 58,
+        "b": 33
+      },
+      "lab": {
+        "l": 22.88,
+        "a": -9.44,
+        "b": 14.2
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B23"
+      ],
+      "sort": 42
+    },
+    {
+      "id": "mard-b24",
+      "code": "B24",
+      "name": "B24",
+      "nameZh": "B24",
+      "hex": "#EEFCA5",
+      "rgb": {
+        "r": 238,
+        "g": 252,
+        "b": 165
+      },
+      "lab": {
+        "l": 96.21,
+        "a": -17.83,
+        "b": 40.19
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B24"
+      ],
+      "sort": 43
+    },
+    {
+      "id": "mard-b25",
+      "code": "B25",
+      "name": "B25",
+      "nameZh": "B25",
+      "hex": "#4E846D",
+      "rgb": {
+        "r": 78,
+        "g": 132,
+        "b": 109
+      },
+      "lab": {
+        "l": 50.95,
+        "a": -23.56,
+        "b": 6.84
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B25"
+      ],
+      "sort": 44
+    },
+    {
+      "id": "mard-b26",
+      "code": "B26",
+      "name": "B26",
+      "nameZh": "B26",
+      "hex": "#8D7A35",
+      "rgb": {
+        "r": 141,
+        "g": 122,
+        "b": 53
+      },
+      "lab": {
+        "l": 51.66,
+        "a": -1.4,
+        "b": 39.63
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B26"
+      ],
+      "sort": 45
+    },
+    {
+      "id": "mard-b27",
+      "code": "B27",
+      "name": "B27",
+      "nameZh": "B27",
+      "hex": "#CCE1AF",
+      "rgb": {
+        "r": 204,
+        "g": 225,
+        "b": 175
+      },
+      "lab": {
+        "l": 86.89,
+        "a": -15.62,
+        "b": 22.2
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B27"
+      ],
+      "sort": 46
+    },
+    {
+      "id": "mard-b28",
+      "code": "B28",
+      "name": "B28",
+      "nameZh": "B28",
+      "hex": "#9EE5B9",
+      "rgb": {
+        "r": 158,
+        "g": 229,
+        "b": 185
+      },
+      "lab": {
+        "l": 85.41,
+        "a": -31.13,
+        "b": 14.5
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B28"
+      ],
+      "sort": 47
+    },
+    {
+      "id": "mard-b29",
+      "code": "B29",
+      "name": "B29",
+      "nameZh": "B29",
+      "hex": "#C5E254",
+      "rgb": {
+        "r": 197,
+        "g": 226,
+        "b": 84
+      },
+      "lab": {
+        "l": 85.46,
+        "a": -28.83,
+        "b": 64.01
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B29"
+      ],
+      "sort": 48
+    },
+    {
+      "id": "mard-b3",
+      "code": "B3",
+      "name": "B3",
+      "nameZh": "B3",
+      "hex": "#9EF780",
+      "rgb": {
+        "r": 158,
+        "g": 247,
+        "b": 128
+      },
+      "lab": {
+        "l": 89.56,
+        "a": -48,
+        "b": 48.66
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B3"
+      ],
+      "sort": 49
+    },
+    {
+      "id": "mard-b30",
+      "code": "B30",
+      "name": "B30",
+      "nameZh": "B30",
+      "hex": "#E2FCB1",
+      "rgb": {
+        "r": 226,
+        "g": 252,
+        "b": 177
+      },
+      "lab": {
+        "l": 95.57,
+        "a": -20.68,
+        "b": 33.21
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B30"
+      ],
+      "sort": 50
+    },
+    {
+      "id": "mard-b31",
+      "code": "B31",
+      "name": "B31",
+      "nameZh": "B31",
+      "hex": "#B0E792",
+      "rgb": {
+        "r": 176,
+        "g": 231,
+        "b": 146
+      },
+      "lab": {
+        "l": 86.23,
+        "a": -32.6,
+        "b": 35.85
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B31"
+      ],
+      "sort": 51
+    },
+    {
+      "id": "mard-b32",
+      "code": "B32",
+      "name": "B32",
+      "nameZh": "B32",
+      "hex": "#9CAB5A",
+      "rgb": {
+        "r": 156,
+        "g": 171,
+        "b": 90
+      },
+      "lab": {
+        "l": 67.23,
+        "a": -17.85,
+        "b": 39.71
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B32"
+      ],
+      "sort": 52
+    },
+    {
+      "id": "mard-b4",
+      "code": "B4",
+      "name": "B4",
+      "nameZh": "B4",
+      "hex": "#5DE035",
+      "rgb": {
+        "r": 93,
+        "g": 224,
+        "b": 53
+      },
+      "lab": {
+        "l": 79.55,
+        "a": -64.72,
+        "b": 67.6
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B4"
+      ],
+      "sort": 53
+    },
+    {
+      "id": "mard-b5",
+      "code": "B5",
+      "name": "B5",
+      "nameZh": "B5",
+      "hex": "#35E352",
+      "rgb": {
+        "r": 53,
+        "g": 227,
+        "b": 82
+      },
+      "lab": {
+        "l": 79.78,
+        "a": -70.71,
+        "b": 56.94
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B5"
+      ],
+      "sort": 54
+    },
+    {
+      "id": "mard-b6",
+      "code": "B6",
+      "name": "B6",
+      "nameZh": "B6",
+      "hex": "#65E2A6",
+      "rgb": {
+        "r": 101,
+        "g": 226,
+        "b": 166
+      },
+      "lab": {
+        "l": 81.79,
+        "a": -48.56,
+        "b": 19.02
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B6"
+      ],
+      "sort": 55
+    },
+    {
+      "id": "mard-b7",
+      "code": "B7",
+      "name": "B7",
+      "nameZh": "B7",
+      "hex": "#3DAF80",
+      "rgb": {
+        "r": 61,
+        "g": 175,
+        "b": 128
+      },
+      "lab": {
+        "l": 64.33,
+        "a": -43.26,
+        "b": 14.88
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B7"
+      ],
+      "sort": 56
+    },
+    {
+      "id": "mard-b8",
+      "code": "B8",
+      "name": "B8",
+      "nameZh": "B8",
+      "hex": "#1C9C4F",
+      "rgb": {
+        "r": 28,
+        "g": 156,
+        "b": 79
+      },
+      "lab": {
+        "l": 56.67,
+        "a": -50.58,
+        "b": 30.99
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B8"
+      ],
+      "sort": 57
+    },
+    {
+      "id": "mard-b9",
+      "code": "B9",
+      "name": "B9",
+      "nameZh": "B9",
+      "hex": "#27523A",
+      "rgb": {
+        "r": 39,
+        "g": 82,
+        "b": 58
+      },
+      "lab": {
+        "l": 31.28,
+        "a": -21.35,
+        "b": 9.58
+      },
+      "category": "series-B",
+      "available": true,
+      "aliases": [
+        "Mard_B9"
+      ],
+      "sort": 58
+    },
+    {
+      "id": "mard-c1",
+      "code": "C1",
+      "name": "C1",
+      "nameZh": "C1",
+      "hex": "#E8FFE7",
+      "rgb": {
+        "r": 232,
+        "g": 255,
+        "b": 231
+      },
+      "lab": {
+        "l": 97.81,
+        "a": -11.77,
+        "b": 8.93
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C1"
+      ],
+      "sort": 59
+    },
+    {
+      "id": "mard-c10",
+      "code": "C10",
+      "name": "C10",
+      "nameZh": "C10",
+      "hex": "#3EBCE2",
+      "rgb": {
+        "r": 62,
+        "g": 188,
+        "b": 226
+      },
+      "lab": {
+        "l": 71.2,
+        "a": -22,
+        "b": -28.89
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C10"
+      ],
+      "sort": 60
+    },
+    {
+      "id": "mard-c11",
+      "code": "C11",
+      "name": "C11",
+      "nameZh": "C11",
+      "hex": "#28DDDE",
+      "rgb": {
+        "r": 40,
+        "g": 221,
+        "b": 222
+      },
+      "lab": {
+        "l": 80.42,
+        "a": -41.2,
+        "b": -12.77
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C11"
+      ],
+      "sort": 61
+    },
+    {
+      "id": "mard-c12",
+      "code": "C12",
+      "name": "C12",
+      "nameZh": "C12",
+      "hex": "#1C334D",
+      "rgb": {
+        "r": 28,
+        "g": 51,
+        "b": 77
+      },
+      "lab": {
+        "l": 20.64,
+        "a": 0.14,
+        "b": -18.71
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C12"
+      ],
+      "sort": 62
+    },
+    {
+      "id": "mard-c13",
+      "code": "C13",
+      "name": "C13",
+      "nameZh": "C13",
+      "hex": "#CDE8FF",
+      "rgb": {
+        "r": 205,
+        "g": 232,
+        "b": 255
+      },
+      "lab": {
+        "l": 90.74,
+        "a": -4.12,
+        "b": -14.08
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C13"
+      ],
+      "sort": 63
+    },
+    {
+      "id": "mard-c14",
+      "code": "C14",
+      "name": "C14",
+      "nameZh": "C14",
+      "hex": "#D5FDFF",
+      "rgb": {
+        "r": 213,
+        "g": 253,
+        "b": 255
+      },
+      "lab": {
+        "l": 96.66,
+        "a": -12.33,
+        "b": -5.23
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C14"
+      ],
+      "sort": 64
+    },
+    {
+      "id": "mard-c15",
+      "code": "C15",
+      "name": "C15",
+      "nameZh": "C15",
+      "hex": "#22C4C6",
+      "rgb": {
+        "r": 34,
+        "g": 196,
+        "b": 198
+      },
+      "lab": {
+        "l": 72.16,
+        "a": -37.35,
+        "b": -12.22
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C15"
+      ],
+      "sort": 65
+    },
+    {
+      "id": "mard-c16",
+      "code": "C16",
+      "name": "C16",
+      "nameZh": "C16",
+      "hex": "#1557A8",
+      "rgb": {
+        "r": 21,
+        "g": 87,
+        "b": 168
+      },
+      "lab": {
+        "l": 37.48,
+        "a": 11.51,
+        "b": -49.04
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C16"
+      ],
+      "sort": 66
+    },
+    {
+      "id": "mard-c17",
+      "code": "C17",
+      "name": "C17",
+      "nameZh": "C17",
+      "hex": "#04D1F6",
+      "rgb": {
+        "r": 4,
+        "g": 209,
+        "b": 246
+      },
+      "lab": {
+        "l": 77.45,
+        "a": -29.72,
+        "b": -30.12
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C17"
+      ],
+      "sort": 67
+    },
+    {
+      "id": "mard-c18",
+      "code": "C18",
+      "name": "C18",
+      "nameZh": "C18",
+      "hex": "#1D3344",
+      "rgb": {
+        "r": 29,
+        "g": 51,
+        "b": 68
+      },
+      "lab": {
+        "l": 20.23,
+        "a": -2.96,
+        "b": -13.27
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C18"
+      ],
+      "sort": 68
+    },
+    {
+      "id": "mard-c19",
+      "code": "C19",
+      "name": "C19",
+      "nameZh": "C19",
+      "hex": "#1887A2",
+      "rgb": {
+        "r": 24,
+        "g": 135,
+        "b": 162
+      },
+      "lab": {
+        "l": 51.98,
+        "a": -19.51,
+        "b": -22.66
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C19"
+      ],
+      "sort": 69
+    },
+    {
+      "id": "mard-c2",
+      "code": "C2",
+      "name": "C2",
+      "nameZh": "C2",
+      "hex": "#A9F9FC",
+      "rgb": {
+        "r": 169,
+        "g": 249,
+        "b": 252
+      },
+      "lab": {
+        "l": 93.11,
+        "a": -23.53,
+        "b": -9.21
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C2"
+      ],
+      "sort": 70
+    },
+    {
+      "id": "mard-c20",
+      "code": "C20",
+      "name": "C20",
+      "nameZh": "C20",
+      "hex": "#176DAF",
+      "rgb": {
+        "r": 23,
+        "g": 109,
+        "b": 175
+      },
+      "lab": {
+        "l": 44.54,
+        "a": 0.31,
+        "b": -41.88
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C20"
+      ],
+      "sort": 71
+    },
+    {
+      "id": "mard-c21",
+      "code": "C21",
+      "name": "C21",
+      "nameZh": "C21",
+      "hex": "#BEDDFF",
+      "rgb": {
+        "r": 190,
+        "g": 221,
+        "b": 255
+      },
+      "lab": {
+        "l": 86.94,
+        "a": -2.87,
+        "b": -19.89
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C21"
+      ],
+      "sort": 72
+    },
+    {
+      "id": "mard-c22",
+      "code": "C22",
+      "name": "C22",
+      "nameZh": "C22",
+      "hex": "#67B4BE",
+      "rgb": {
+        "r": 103,
+        "g": 180,
+        "b": 190
+      },
+      "lab": {
+        "l": 68.93,
+        "a": -21.13,
+        "b": -12.5
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C22"
+      ],
+      "sort": 73
+    },
+    {
+      "id": "mard-c23",
+      "code": "C23",
+      "name": "C23",
+      "nameZh": "C23",
+      "hex": "#C8E2FF",
+      "rgb": {
+        "r": 200,
+        "g": 226,
+        "b": 255
+      },
+      "lab": {
+        "l": 88.87,
+        "a": -2.52,
+        "b": -16.92
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C23"
+      ],
+      "sort": 74
+    },
+    {
+      "id": "mard-c24",
+      "code": "C24",
+      "name": "C24",
+      "nameZh": "C24",
+      "hex": "#7CC4FF",
+      "rgb": {
+        "r": 124,
+        "g": 196,
+        "b": 255
+      },
+      "lab": {
+        "l": 76.67,
+        "a": -6.59,
+        "b": -35.92
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C24"
+      ],
+      "sort": 75
+    },
+    {
+      "id": "mard-c25",
+      "code": "C25",
+      "name": "C25",
+      "nameZh": "C25",
+      "hex": "#A9E5E5",
+      "rgb": {
+        "r": 169,
+        "g": 229,
+        "b": 229
+      },
+      "lab": {
+        "l": 87.06,
+        "a": -18.86,
+        "b": -6.15
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C25"
+      ],
+      "sort": 76
+    },
+    {
+      "id": "mard-c26",
+      "code": "C26",
+      "name": "C26",
+      "nameZh": "C26",
+      "hex": "#3CAED8",
+      "rgb": {
+        "r": 60,
+        "g": 174,
+        "b": 216
+      },
+      "lab": {
+        "l": 66.66,
+        "a": -18.2,
+        "b": -30.41
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C26"
+      ],
+      "sort": 77
+    },
+    {
+      "id": "mard-c27",
+      "code": "C27",
+      "name": "C27",
+      "nameZh": "C27",
+      "hex": "#D3DFFA",
+      "rgb": {
+        "r": 211,
+        "g": 223,
+        "b": 250
+      },
+      "lab": {
+        "l": 88.7,
+        "a": 1.33,
+        "b": -14.48
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C27"
+      ],
+      "sort": 78
+    },
+    {
+      "id": "mard-c28",
+      "code": "C28",
+      "name": "C28",
+      "nameZh": "C28",
+      "hex": "#BBCFED",
+      "rgb": {
+        "r": 187,
+        "g": 207,
+        "b": 237
+      },
+      "lab": {
+        "l": 82.54,
+        "a": -0.43,
+        "b": -17.01
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C28"
+      ],
+      "sort": 79
+    },
+    {
+      "id": "mard-c29",
+      "code": "C29",
+      "name": "C29",
+      "nameZh": "C29",
+      "hex": "#34488E",
+      "rgb": {
+        "r": 52,
+        "g": 72,
+        "b": 142
+      },
+      "lab": {
+        "l": 32.52,
+        "a": 15.46,
+        "b": -41.29
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C29"
+      ],
+      "sort": 80
+    },
+    {
+      "id": "mard-c3",
+      "code": "C3",
+      "name": "C3",
+      "nameZh": "C3",
+      "hex": "#A0E2FB",
+      "rgb": {
+        "r": 160,
+        "g": 226,
+        "b": 251
+      },
+      "lab": {
+        "l": 86.42,
+        "a": -14.7,
+        "b": -18.74
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C3"
+      ],
+      "sort": 81
+    },
+    {
+      "id": "mard-c4",
+      "code": "C4",
+      "name": "C4",
+      "nameZh": "C4",
+      "hex": "#41CCFF",
+      "rgb": {
+        "r": 65,
+        "g": 204,
+        "b": 255
+      },
+      "lab": {
+        "l": 77,
+        "a": -20.56,
+        "b": -35.57
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C4"
+      ],
+      "sort": 82
+    },
+    {
+      "id": "mard-c5",
+      "code": "C5",
+      "name": "C5",
+      "nameZh": "C5",
+      "hex": "#01ACEB",
+      "rgb": {
+        "r": 1,
+        "g": 172,
+        "b": 235
+      },
+      "lab": {
+        "l": 66.14,
+        "a": -14.55,
+        "b": -41.71
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C5"
+      ],
+      "sort": 83
+    },
+    {
+      "id": "mard-c6",
+      "code": "C6",
+      "name": "C6",
+      "nameZh": "C6",
+      "hex": "#50AAF0",
+      "rgb": {
+        "r": 80,
+        "g": 170,
+        "b": 240
+      },
+      "lab": {
+        "l": 67.08,
+        "a": -5.26,
+        "b": -42.87
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C6"
+      ],
+      "sort": 84
+    },
+    {
+      "id": "mard-c7",
+      "code": "C7",
+      "name": "C7",
+      "nameZh": "C7",
+      "hex": "#3677D2",
+      "rgb": {
+        "r": 54,
+        "g": 119,
+        "b": 210
+      },
+      "lab": {
+        "l": 50.25,
+        "a": 10.57,
+        "b": -52.89
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C7"
+      ],
+      "sort": 85
+    },
+    {
+      "id": "mard-c8",
+      "code": "C8",
+      "name": "C8",
+      "nameZh": "C8",
+      "hex": "#0F54C0",
+      "rgb": {
+        "r": 15,
+        "g": 84,
+        "b": 192
+      },
+      "lab": {
+        "l": 38.28,
+        "a": 22.84,
+        "b": -61.89
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C8"
+      ],
+      "sort": 86
+    },
+    {
+      "id": "mard-c9",
+      "code": "C9",
+      "name": "C9",
+      "nameZh": "C9",
+      "hex": "#324BCA",
+      "rgb": {
+        "r": 50,
+        "g": 75,
+        "b": 202
+      },
+      "lab": {
+        "l": 37.79,
+        "a": 35.22,
+        "b": -68.47
+      },
+      "category": "series-C",
+      "available": true,
+      "aliases": [
+        "Mard_C9"
+      ],
+      "sort": 87
+    },
+    {
+      "id": "mard-d1",
+      "code": "D1",
+      "name": "D1",
+      "nameZh": "D1",
+      "hex": "#AEB4F2",
+      "rgb": {
+        "r": 174,
+        "g": 180,
+        "b": 242
+      },
+      "lab": {
+        "l": 74.86,
+        "a": 11.46,
+        "b": -31.49
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D1"
+      ],
+      "sort": 88
+    },
+    {
+      "id": "mard-d10",
+      "code": "D10",
+      "name": "D10",
+      "nameZh": "D10",
+      "hex": "#361851",
+      "rgb": {
+        "r": 54,
+        "g": 24,
+        "b": 81
+      },
+      "lab": {
+        "l": 15.65,
+        "a": 27.22,
+        "b": -29.19
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D10"
+      ],
+      "sort": 89
+    },
+    {
+      "id": "mard-d11",
+      "code": "D11",
+      "name": "D11",
+      "nameZh": "D11",
+      "hex": "#B9BAE1",
+      "rgb": {
+        "r": 185,
+        "g": 186,
+        "b": 225
+      },
+      "lab": {
+        "l": 76.6,
+        "a": 7.58,
+        "b": -19.56
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D11"
+      ],
+      "sort": 90
+    },
+    {
+      "id": "mard-d12",
+      "code": "D12",
+      "name": "D12",
+      "nameZh": "D12",
+      "hex": "#DE9AD4",
+      "rgb": {
+        "r": 222,
+        "g": 154,
+        "b": 212
+      },
+      "lab": {
+        "l": 71.82,
+        "a": 34.45,
+        "b": -19.39
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D12"
+      ],
+      "sort": 91
+    },
+    {
+      "id": "mard-d13",
+      "code": "D13",
+      "name": "D13",
+      "nameZh": "D13",
+      "hex": "#B90095",
+      "rgb": {
+        "r": 185,
+        "g": 0,
+        "b": 149
+      },
+      "lab": {
+        "l": 41.98,
+        "a": 72.29,
+        "b": -29.45
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D13"
+      ],
+      "sort": 92
+    },
+    {
+      "id": "mard-d14",
+      "code": "D14",
+      "name": "D14",
+      "nameZh": "D14",
+      "hex": "#8B279B",
+      "rgb": {
+        "r": 139,
+        "g": 39,
+        "b": 155
+      },
+      "lab": {
+        "l": 36.57,
+        "a": 56.71,
+        "b": -42.18
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D14"
+      ],
+      "sort": 93
+    },
+    {
+      "id": "mard-d15",
+      "code": "D15",
+      "name": "D15",
+      "nameZh": "D15",
+      "hex": "#2F1F90",
+      "rgb": {
+        "r": 47,
+        "g": 31,
+        "b": 144
+      },
+      "lab": {
+        "l": 22.29,
+        "a": 41.43,
+        "b": -59.19
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D15"
+      ],
+      "sort": 94
+    },
+    {
+      "id": "mard-d16",
+      "code": "D16",
+      "name": "D16",
+      "nameZh": "D16",
+      "hex": "#E3E1EE",
+      "rgb": {
+        "r": 227,
+        "g": 225,
+        "b": 238
+      },
+      "lab": {
+        "l": 90.02,
+        "a": 3.05,
+        "b": -6.08
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D16"
+      ],
+      "sort": 95
+    },
+    {
+      "id": "mard-d17",
+      "code": "D17",
+      "name": "D17",
+      "nameZh": "D17",
+      "hex": "#C4D4F6",
+      "rgb": {
+        "r": 196,
+        "g": 212,
+        "b": 246
+      },
+      "lab": {
+        "l": 84.73,
+        "a": 1.64,
+        "b": -18.44
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D17"
+      ],
+      "sort": 96
+    },
+    {
+      "id": "mard-d18",
+      "code": "D18",
+      "name": "D18",
+      "nameZh": "D18",
+      "hex": "#A45EC7",
+      "rgb": {
+        "r": 164,
+        "g": 94,
+        "b": 199
+      },
+      "lab": {
+        "l": 51.86,
+        "a": 46.48,
+        "b": -43.55
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D18"
+      ],
+      "sort": 97
+    },
+    {
+      "id": "mard-d19",
+      "code": "D19",
+      "name": "D19",
+      "nameZh": "D19",
+      "hex": "#D8C3D7",
+      "rgb": {
+        "r": 216,
+        "g": 195,
+        "b": 215
+      },
+      "lab": {
+        "l": 81.04,
+        "a": 10.89,
+        "b": -7.27
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D19"
+      ],
+      "sort": 98
+    },
+    {
+      "id": "mard-d2",
+      "code": "D2",
+      "name": "D2",
+      "nameZh": "D2",
+      "hex": "#858EDD",
+      "rgb": {
+        "r": 133,
+        "g": 142,
+        "b": 221
+      },
+      "lab": {
+        "l": 61.27,
+        "a": 16.21,
+        "b": -41.34
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D2"
+      ],
+      "sort": 99
+    },
+    {
+      "id": "mard-d20",
+      "code": "D20",
+      "name": "D20",
+      "nameZh": "D20",
+      "hex": "#9C32B2",
+      "rgb": {
+        "r": 156,
+        "g": 50,
+        "b": 178
+      },
+      "lab": {
+        "l": 42.1,
+        "a": 60.63,
+        "b": -46.94
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D20"
+      ],
+      "sort": 100
+    },
+    {
+      "id": "mard-d21",
+      "code": "D21",
+      "name": "D21",
+      "nameZh": "D21",
+      "hex": "#9A009B",
+      "rgb": {
+        "r": 154,
+        "g": 0,
+        "b": 155
+      },
+      "lab": {
+        "l": 36.44,
+        "a": 67.56,
+        "b": -42.25
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D21"
+      ],
+      "sort": 101
+    },
+    {
+      "id": "mard-d22",
+      "code": "D22",
+      "name": "D22",
+      "nameZh": "D22",
+      "hex": "#333A95",
+      "rgb": {
+        "r": 51,
+        "g": 58,
+        "b": 149
+      },
+      "lab": {
+        "l": 29.16,
+        "a": 27.2,
+        "b": -51.01
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D22"
+      ],
+      "sort": 102
+    },
+    {
+      "id": "mard-d23",
+      "code": "D23",
+      "name": "D23",
+      "nameZh": "D23",
+      "hex": "#EBDAFC",
+      "rgb": {
+        "r": 235,
+        "g": 218,
+        "b": 252
+      },
+      "lab": {
+        "l": 89.31,
+        "a": 11.96,
+        "b": -14.42
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D23"
+      ],
+      "sort": 103
+    },
+    {
+      "id": "mard-d24",
+      "code": "D24",
+      "name": "D24",
+      "nameZh": "D24",
+      "hex": "#7786E5",
+      "rgb": {
+        "r": 119,
+        "g": 134,
+        "b": 229
+      },
+      "lab": {
+        "l": 58.63,
+        "a": 19.78,
+        "b": -50.02
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D24"
+      ],
+      "sort": 104
+    },
+    {
+      "id": "mard-d25",
+      "code": "D25",
+      "name": "D25",
+      "nameZh": "D25",
+      "hex": "#494FC7",
+      "rgb": {
+        "r": 73,
+        "g": 79,
+        "b": 199
+      },
+      "lab": {
+        "l": 39.8,
+        "a": 34.69,
+        "b": -63.4
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D25"
+      ],
+      "sort": 105
+    },
+    {
+      "id": "mard-d26",
+      "code": "D26",
+      "name": "D26",
+      "nameZh": "D26",
+      "hex": "#DFC2F8",
+      "rgb": {
+        "r": 223,
+        "g": 194,
+        "b": 248
+      },
+      "lab": {
+        "l": 82.41,
+        "a": 20.08,
+        "b": -22.82
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D26"
+      ],
+      "sort": 106
+    },
+    {
+      "id": "mard-d3",
+      "code": "D3",
+      "name": "D3",
+      "nameZh": "D3",
+      "hex": "#2F54AF",
+      "rgb": {
+        "r": 47,
+        "g": 84,
+        "b": 175
+      },
+      "lab": {
+        "l": 37.91,
+        "a": 18.99,
+        "b": -52.46
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D3"
+      ],
+      "sort": 107
+    },
+    {
+      "id": "mard-d4",
+      "code": "D4",
+      "name": "D4",
+      "nameZh": "D4",
+      "hex": "#182A84",
+      "rgb": {
+        "r": 24,
+        "g": 42,
+        "b": 132
+      },
+      "lab": {
+        "l": 22,
+        "a": 28.04,
+        "b": -52.23
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D4"
+      ],
+      "sort": 108
+    },
+    {
+      "id": "mard-d5",
+      "code": "D5",
+      "name": "D5",
+      "nameZh": "D5",
+      "hex": "#B843C5",
+      "rgb": {
+        "r": 184,
+        "g": 67,
+        "b": 197
+      },
+      "lab": {
+        "l": 49.78,
+        "a": 63.75,
+        "b": -45.53
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D5"
+      ],
+      "sort": 109
+    },
+    {
+      "id": "mard-d6",
+      "code": "D6",
+      "name": "D6",
+      "nameZh": "D6",
+      "hex": "#AC7BDE",
+      "rgb": {
+        "r": 172,
+        "g": 123,
+        "b": 222
+      },
+      "lab": {
+        "l": 60.08,
+        "a": 38.07,
+        "b": -43.53
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D6"
+      ],
+      "sort": 110
+    },
+    {
+      "id": "mard-d7",
+      "code": "D7",
+      "name": "D7",
+      "nameZh": "D7",
+      "hex": "#8854B3",
+      "rgb": {
+        "r": 136,
+        "g": 84,
+        "b": 179
+      },
+      "lab": {
+        "l": 45.4,
+        "a": 39.8,
+        "b": -42.42
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D7"
+      ],
+      "sort": 111
+    },
+    {
+      "id": "mard-d8",
+      "code": "D8",
+      "name": "D8",
+      "nameZh": "D8",
+      "hex": "#E2D3FF",
+      "rgb": {
+        "r": 226,
+        "g": 211,
+        "b": 255
+      },
+      "lab": {
+        "l": 86.99,
+        "a": 13.37,
+        "b": -19.57
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D8"
+      ],
+      "sort": 112
+    },
+    {
+      "id": "mard-d9",
+      "code": "D9",
+      "name": "D9",
+      "nameZh": "D9",
+      "hex": "#D5B9F8",
+      "rgb": {
+        "r": 213,
+        "g": 185,
+        "b": 248
+      },
+      "lab": {
+        "l": 79.4,
+        "a": 21.8,
+        "b": -27.48
+      },
+      "category": "series-D",
+      "available": true,
+      "aliases": [
+        "Mard_D9"
+      ],
+      "sort": 113
+    },
+    {
+      "id": "mard-e1",
+      "code": "E1",
+      "name": "E1",
+      "nameZh": "E1",
+      "hex": "#FDD3CC",
+      "rgb": {
+        "r": 253,
+        "g": 211,
+        "b": 204
+      },
+      "lab": {
+        "l": 87.89,
+        "a": 13.63,
+        "b": 8.97
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E1"
+      ],
+      "sort": 114
+    },
+    {
+      "id": "mard-e10",
+      "code": "E10",
+      "name": "E10",
+      "nameZh": "E10",
+      "hex": "#D33793",
+      "rgb": {
+        "r": 211,
+        "g": 55,
+        "b": 147
+      },
+      "lab": {
+        "l": 50.32,
+        "a": 67.3,
+        "b": -14.98
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E10"
+      ],
+      "sort": 115
+    },
+    {
+      "id": "mard-e11",
+      "code": "E11",
+      "name": "E11",
+      "nameZh": "E11",
+      "hex": "#FCDDD2",
+      "rgb": {
+        "r": 252,
+        "g": 221,
+        "b": 210
+      },
+      "lab": {
+        "l": 90.35,
+        "a": 8.98,
+        "b": 9.33
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E11"
+      ],
+      "sort": 116
+    },
+    {
+      "id": "mard-e12",
+      "code": "E12",
+      "name": "E12",
+      "nameZh": "E12",
+      "hex": "#F78FC3",
+      "rgb": {
+        "r": 247,
+        "g": 143,
+        "b": 195
+      },
+      "lab": {
+        "l": 71.8,
+        "a": 45.72,
+        "b": -9.74
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E12"
+      ],
+      "sort": 117
+    },
+    {
+      "id": "mard-e13",
+      "code": "E13",
+      "name": "E13",
+      "nameZh": "E13",
+      "hex": "#B5006D",
+      "rgb": {
+        "r": 181,
+        "g": 0,
+        "b": 109
+      },
+      "lab": {
+        "l": 39.46,
+        "a": 67.08,
+        "b": -8.64
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E13"
+      ],
+      "sort": 118
+    },
+    {
+      "id": "mard-e14",
+      "code": "E14",
+      "name": "E14",
+      "nameZh": "E14",
+      "hex": "#FFD1BA",
+      "rgb": {
+        "r": 255,
+        "g": 209,
+        "b": 186
+      },
+      "lab": {
+        "l": 87.2,
+        "a": 12.88,
+        "b": 17.5
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E14"
+      ],
+      "sort": 119
+    },
+    {
+      "id": "mard-e15",
+      "code": "E15",
+      "name": "E15",
+      "nameZh": "E15",
+      "hex": "#F8C7C9",
+      "rgb": {
+        "r": 248,
+        "g": 199,
+        "b": 201
+      },
+      "lab": {
+        "l": 84.5,
+        "a": 17.67,
+        "b": 5.62
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E15"
+      ],
+      "sort": 120
+    },
+    {
+      "id": "mard-e16",
+      "code": "E16",
+      "name": "E16",
+      "nameZh": "E16",
+      "hex": "#FFF3EB",
+      "rgb": {
+        "r": 255,
+        "g": 243,
+        "b": 235
+      },
+      "lab": {
+        "l": 96.56,
+        "a": 2.68,
+        "b": 5.29
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E16"
+      ],
+      "sort": 121
+    },
+    {
+      "id": "mard-e17",
+      "code": "E17",
+      "name": "E17",
+      "nameZh": "E17",
+      "hex": "#FFE2EA",
+      "rgb": {
+        "r": 255,
+        "g": 226,
+        "b": 234
+      },
+      "lab": {
+        "l": 92.4,
+        "a": 11.24,
+        "b": -0.24
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E17"
+      ],
+      "sort": 122
+    },
+    {
+      "id": "mard-e18",
+      "code": "E18",
+      "name": "E18",
+      "nameZh": "E18",
+      "hex": "#FFC7DB",
+      "rgb": {
+        "r": 255,
+        "g": 199,
+        "b": 219
+      },
+      "lab": {
+        "l": 85.62,
+        "a": 22.9,
+        "b": -2.25
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E18"
+      ],
+      "sort": 123
+    },
+    {
+      "id": "mard-e19",
+      "code": "E19",
+      "name": "E19",
+      "nameZh": "E19",
+      "hex": "#FEBAD5",
+      "rgb": {
+        "r": 254,
+        "g": 186,
+        "b": 213
+      },
+      "lab": {
+        "l": 82.38,
+        "a": 28.45,
+        "b": -3.82
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E19"
+      ],
+      "sort": 124
+    },
+    {
+      "id": "mard-e2",
+      "code": "E2",
+      "name": "E2",
+      "nameZh": "E2",
+      "hex": "#FEC0DF",
+      "rgb": {
+        "r": 254,
+        "g": 192,
+        "b": 223
+      },
+      "lab": {
+        "l": 84.02,
+        "a": 26.87,
+        "b": -6.76
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E2"
+      ],
+      "sort": 125
+    },
+    {
+      "id": "mard-e20",
+      "code": "E20",
+      "name": "E20",
+      "nameZh": "E20",
+      "hex": "#D8C7D1",
+      "rgb": {
+        "r": 216,
+        "g": 199,
+        "b": 209
+      },
+      "lab": {
+        "l": 81.87,
+        "a": 7.68,
+        "b": -2.83
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E20"
+      ],
+      "sort": 126
+    },
+    {
+      "id": "mard-e21",
+      "code": "E21",
+      "name": "E21",
+      "nameZh": "E21",
+      "hex": "#BD9DA1",
+      "rgb": {
+        "r": 189,
+        "g": 157,
+        "b": 161
+      },
+      "lab": {
+        "l": 67.66,
+        "a": 12.47,
+        "b": 2.35
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E21"
+      ],
+      "sort": 127
+    },
+    {
+      "id": "mard-e22",
+      "code": "E22",
+      "name": "E22",
+      "nameZh": "E22",
+      "hex": "#B785A1",
+      "rgb": {
+        "r": 183,
+        "g": 133,
+        "b": 161
+      },
+      "lab": {
+        "l": 61.15,
+        "a": 23.61,
+        "b": -7.28
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E22"
+      ],
+      "sort": 128
+    },
+    {
+      "id": "mard-e23",
+      "code": "E23",
+      "name": "E23",
+      "nameZh": "E23",
+      "hex": "#937A8D",
+      "rgb": {
+        "r": 147,
+        "g": 122,
+        "b": 141
+      },
+      "lab": {
+        "l": 54.08,
+        "a": 13.1,
+        "b": -6.66
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E23"
+      ],
+      "sort": 129
+    },
+    {
+      "id": "mard-e24",
+      "code": "E24",
+      "name": "E24",
+      "nameZh": "E24",
+      "hex": "#E1BCE8",
+      "rgb": {
+        "r": 225,
+        "g": 188,
+        "b": 232
+      },
+      "lab": {
+        "l": 80.63,
+        "a": 20.83,
+        "b": -16.93
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E24"
+      ],
+      "sort": 130
+    },
+    {
+      "id": "mard-e3",
+      "code": "E3",
+      "name": "E3",
+      "nameZh": "E3",
+      "hex": "#FFB7E7",
+      "rgb": {
+        "r": 255,
+        "g": 183,
+        "b": 231
+      },
+      "lab": {
+        "l": 82.32,
+        "a": 33.24,
+        "b": -13.55
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E3"
+      ],
+      "sort": 131
+    },
+    {
+      "id": "mard-e4",
+      "code": "E4",
+      "name": "E4",
+      "nameZh": "E4",
+      "hex": "#E8649E",
+      "rgb": {
+        "r": 232,
+        "g": 100,
+        "b": 158
+      },
+      "lab": {
+        "l": 60.55,
+        "a": 56.84,
+        "b": -5.76
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E4"
+      ],
+      "sort": 132
+    },
+    {
+      "id": "mard-e5",
+      "code": "E5",
+      "name": "E5",
+      "nameZh": "E5",
+      "hex": "#F551A2",
+      "rgb": {
+        "r": 245,
+        "g": 81,
+        "b": 162
+      },
+      "lab": {
+        "l": 59.81,
+        "a": 68.97,
+        "b": -8.96
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E5"
+      ],
+      "sort": 133
+    },
+    {
+      "id": "mard-e6",
+      "code": "E6",
+      "name": "E6",
+      "nameZh": "E6",
+      "hex": "#F13D74",
+      "rgb": {
+        "r": 241,
+        "g": 61,
+        "b": 116
+      },
+      "lab": {
+        "l": 55.39,
+        "a": 70.41,
+        "b": 11.6
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E6"
+      ],
+      "sort": 134
+    },
+    {
+      "id": "mard-e7",
+      "code": "E7",
+      "name": "E7",
+      "nameZh": "E7",
+      "hex": "#C63478",
+      "rgb": {
+        "r": 198,
+        "g": 52,
+        "b": 120
+      },
+      "lab": {
+        "l": 46.74,
+        "a": 61.9,
+        "b": -4.27
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E7"
+      ],
+      "sort": 135
+    },
+    {
+      "id": "mard-e8",
+      "code": "E8",
+      "name": "E8",
+      "nameZh": "E8",
+      "hex": "#FFDBE9",
+      "rgb": {
+        "r": 255,
+        "g": 219,
+        "b": 233
+      },
+      "lab": {
+        "l": 90.69,
+        "a": 14.71,
+        "b": -2.21
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E8"
+      ],
+      "sort": 136
+    },
+    {
+      "id": "mard-e9",
+      "code": "E9",
+      "name": "E9",
+      "nameZh": "E9",
+      "hex": "#E970CC",
+      "rgb": {
+        "r": 233,
+        "g": 112,
+        "b": 204
+      },
+      "lab": {
+        "l": 64.38,
+        "a": 57.95,
+        "b": -26.18
+      },
+      "category": "series-E",
+      "available": true,
+      "aliases": [
+        "Mard_E9"
+      ],
+      "sort": 137
+    },
+    {
+      "id": "mard-f1",
+      "code": "F1",
+      "name": "F1",
+      "nameZh": "F1",
+      "hex": "#FD957B",
+      "rgb": {
+        "r": 253,
+        "g": 149,
+        "b": 123
+      },
+      "lab": {
+        "l": 72.1,
+        "a": 36.48,
+        "b": 30.58
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F1"
+      ],
+      "sort": 138
+    },
+    {
+      "id": "mard-f10",
+      "code": "F10",
+      "name": "F10",
+      "nameZh": "F10",
+      "hex": "#8A4526",
+      "rgb": {
+        "r": 138,
+        "g": 69,
+        "b": 38
+      },
+      "lab": {
+        "l": 37.48,
+        "a": 26.82,
+        "b": 31.52
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F10"
+      ],
+      "sort": 139
+    },
+    {
+      "id": "mard-f11",
+      "code": "F11",
+      "name": "F11",
+      "nameZh": "F11",
+      "hex": "#5A2121",
+      "rgb": {
+        "r": 90,
+        "g": 33,
+        "b": 33
+      },
+      "lab": {
+        "l": 21.48,
+        "a": 26.25,
+        "b": 13.44
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F11"
+      ],
+      "sort": 140
+    },
+    {
+      "id": "mard-f12",
+      "code": "F12",
+      "name": "F12",
+      "nameZh": "F12",
+      "hex": "#FD4E6A",
+      "rgb": {
+        "r": 253,
+        "g": 78,
+        "b": 106
+      },
+      "lab": {
+        "l": 59.32,
+        "a": 67.43,
+        "b": 23.23
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F12"
+      ],
+      "sort": 141
+    },
+    {
+      "id": "mard-f13",
+      "code": "F13",
+      "name": "F13",
+      "nameZh": "F13",
+      "hex": "#F35744",
+      "rgb": {
+        "r": 243,
+        "g": 87,
+        "b": 68
+      },
+      "lab": {
+        "l": 58.32,
+        "a": 58.75,
+        "b": 43.12
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F13"
+      ],
+      "sort": 142
+    },
+    {
+      "id": "mard-f14",
+      "code": "F14",
+      "name": "F14",
+      "nameZh": "F14",
+      "hex": "#FFA9AD",
+      "rgb": {
+        "r": 255,
+        "g": 169,
+        "b": 173
+      },
+      "lab": {
+        "l": 77.67,
+        "a": 32.13,
+        "b": 11.03
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F14"
+      ],
+      "sort": 143
+    },
+    {
+      "id": "mard-f15",
+      "code": "F15",
+      "name": "F15",
+      "nameZh": "F15",
+      "hex": "#D30022",
+      "rgb": {
+        "r": 211,
+        "g": 0,
+        "b": 34
+      },
+      "lab": {
+        "l": 44.19,
+        "a": 69.88,
+        "b": 44.88
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F15"
+      ],
+      "sort": 144
+    },
+    {
+      "id": "mard-f16",
+      "code": "F16",
+      "name": "F16",
+      "nameZh": "F16",
+      "hex": "#FEC2A6",
+      "rgb": {
+        "r": 254,
+        "g": 194,
+        "b": 166
+      },
+      "lab": {
+        "l": 83.13,
+        "a": 17.81,
+        "b": 22.4
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F16"
+      ],
+      "sort": 145
+    },
+    {
+      "id": "mard-f17",
+      "code": "F17",
+      "name": "F17",
+      "nameZh": "F17",
+      "hex": "#E69C79",
+      "rgb": {
+        "r": 230,
+        "g": 156,
+        "b": 121
+      },
+      "lab": {
+        "l": 70.86,
+        "a": 23.71,
+        "b": 29.51
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F17"
+      ],
+      "sort": 146
+    },
+    {
+      "id": "mard-f18",
+      "code": "F18",
+      "name": "F18",
+      "nameZh": "F18",
+      "hex": "#D37C46",
+      "rgb": {
+        "r": 211,
+        "g": 124,
+        "b": 70
+      },
+      "lab": {
+        "l": 60.52,
+        "a": 29.15,
+        "b": 43.29
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F18"
+      ],
+      "sort": 147
+    },
+    {
+      "id": "mard-f19",
+      "code": "F19",
+      "name": "F19",
+      "nameZh": "F19",
+      "hex": "#C1444A",
+      "rgb": {
+        "r": 193,
+        "g": 68,
+        "b": 74
+      },
+      "lab": {
+        "l": 46.93,
+        "a": 50.36,
+        "b": 23.95
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F19"
+      ],
+      "sort": 148
+    },
+    {
+      "id": "mard-f2",
+      "code": "F2",
+      "name": "F2",
+      "nameZh": "F2",
+      "hex": "#FC3D46",
+      "rgb": {
+        "r": 252,
+        "g": 61,
+        "b": 70
+      },
+      "lab": {
+        "l": 56.57,
+        "a": 70.82,
+        "b": 40.46
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F2"
+      ],
+      "sort": 149
+    },
+    {
+      "id": "mard-f20",
+      "code": "F20",
+      "name": "F20",
+      "nameZh": "F20",
+      "hex": "#CD9391",
+      "rgb": {
+        "r": 205,
+        "g": 147,
+        "b": 145
+      },
+      "lab": {
+        "l": 66.44,
+        "a": 21.6,
+        "b": 9.77
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F20"
+      ],
+      "sort": 150
+    },
+    {
+      "id": "mard-f21",
+      "code": "F21",
+      "name": "F21",
+      "nameZh": "F21",
+      "hex": "#F7B4C6",
+      "rgb": {
+        "r": 247,
+        "g": 180,
+        "b": 198
+      },
+      "lab": {
+        "l": 79.9,
+        "a": 26.88,
+        "b": 0.55
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F21"
+      ],
+      "sort": 151
+    },
+    {
+      "id": "mard-f22",
+      "code": "F22",
+      "name": "F22",
+      "nameZh": "F22",
+      "hex": "#FDC0D0",
+      "rgb": {
+        "r": 253,
+        "g": 192,
+        "b": 208
+      },
+      "lab": {
+        "l": 83.52,
+        "a": 24.18,
+        "b": 0.52
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F22"
+      ],
+      "sort": 152
+    },
+    {
+      "id": "mard-f23",
+      "code": "F23",
+      "name": "F23",
+      "nameZh": "F23",
+      "hex": "#F67E66",
+      "rgb": {
+        "r": 246,
+        "g": 126,
+        "b": 102
+      },
+      "lab": {
+        "l": 66.12,
+        "a": 43.84,
+        "b": 34.11
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F23"
+      ],
+      "sort": 153
+    },
+    {
+      "id": "mard-f24",
+      "code": "F24",
+      "name": "F24",
+      "nameZh": "F24",
+      "hex": "#E698AA",
+      "rgb": {
+        "r": 230,
+        "g": 152,
+        "b": 170
+      },
+      "lab": {
+        "l": 71,
+        "a": 31.62,
+        "b": 2.73
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F24"
+      ],
+      "sort": 154
+    },
+    {
+      "id": "mard-f25",
+      "code": "F25",
+      "name": "F25",
+      "nameZh": "F25",
+      "hex": "#E54B4F",
+      "rgb": {
+        "r": 229,
+        "g": 75,
+        "b": 79
+      },
+      "lab": {
+        "l": 54.3,
+        "a": 59.56,
+        "b": 31.63
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F25"
+      ],
+      "sort": 155
+    },
+    {
+      "id": "mard-f3",
+      "code": "F3",
+      "name": "F3",
+      "nameZh": "F3",
+      "hex": "#F74941",
+      "rgb": {
+        "r": 247,
+        "g": 73,
+        "b": 65
+      },
+      "lab": {
+        "l": 57,
+        "a": 65.25,
+        "b": 43.47
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F3"
+      ],
+      "sort": 156
+    },
+    {
+      "id": "mard-f4",
+      "code": "F4",
+      "name": "F4",
+      "nameZh": "F4",
+      "hex": "#FC283C",
+      "rgb": {
+        "r": 252,
+        "g": 40,
+        "b": 60
+      },
+      "lab": {
+        "l": 54.6,
+        "a": 75.69,
+        "b": 43.85
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F4"
+      ],
+      "sort": 157
+    },
+    {
+      "id": "mard-f5",
+      "code": "F5",
+      "name": "F5",
+      "nameZh": "F5",
+      "hex": "#E7002F",
+      "rgb": {
+        "r": 231,
+        "g": 0,
+        "b": 47
+      },
+      "lab": {
+        "l": 48.51,
+        "a": 75.03,
+        "b": 43.4
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F5"
+      ],
+      "sort": 158
+    },
+    {
+      "id": "mard-f6",
+      "code": "F6",
+      "name": "F6",
+      "nameZh": "F6",
+      "hex": "#943630",
+      "rgb": {
+        "r": 148,
+        "g": 54,
+        "b": 48
+      },
+      "lab": {
+        "l": 36.27,
+        "a": 39.17,
+        "b": 24.64
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F6"
+      ],
+      "sort": 159
+    },
+    {
+      "id": "mard-f7",
+      "code": "F7",
+      "name": "F7",
+      "nameZh": "F7",
+      "hex": "#971937",
+      "rgb": {
+        "r": 151,
+        "g": 25,
+        "b": 55
+      },
+      "lab": {
+        "l": 33.03,
+        "a": 51.45,
+        "b": 16.2
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F7"
+      ],
+      "sort": 160
+    },
+    {
+      "id": "mard-f8",
+      "code": "F8",
+      "name": "F8",
+      "nameZh": "F8",
+      "hex": "#BC0028",
+      "rgb": {
+        "r": 188,
+        "g": 0,
+        "b": 40
+      },
+      "lab": {
+        "l": 39.32,
+        "a": 64.4,
+        "b": 35.05
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F8"
+      ],
+      "sort": 161
+    },
+    {
+      "id": "mard-f9",
+      "code": "F9",
+      "name": "F9",
+      "nameZh": "F9",
+      "hex": "#E2677A",
+      "rgb": {
+        "r": 226,
+        "g": 103,
+        "b": 122
+      },
+      "lab": {
+        "l": 59.23,
+        "a": 49.58,
+        "b": 13.1
+      },
+      "category": "series-F",
+      "available": true,
+      "aliases": [
+        "Mard_F9"
+      ],
+      "sort": 162
+    },
+    {
+      "id": "mard-g1",
+      "code": "G1",
+      "name": "G1",
+      "nameZh": "G1",
+      "hex": "#FFE2CE",
+      "rgb": {
+        "r": 255,
+        "g": 226,
+        "b": 206
+      },
+      "lab": {
+        "l": 91.73,
+        "a": 6.88,
+        "b": 13.42
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G1"
+      ],
+      "sort": 163
+    },
+    {
+      "id": "mard-g10",
+      "code": "G10",
+      "name": "G10",
+      "nameZh": "G10",
+      "hex": "#D98C39",
+      "rgb": {
+        "r": 217,
+        "g": 140,
+        "b": 57
+      },
+      "lab": {
+        "l": 64.81,
+        "a": 22.39,
+        "b": 54.34
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G10"
+      ],
+      "sort": 164
+    },
+    {
+      "id": "mard-g11",
+      "code": "G11",
+      "name": "G11",
+      "nameZh": "G11",
+      "hex": "#E0C593",
+      "rgb": {
+        "r": 224,
+        "g": 197,
+        "b": 147
+      },
+      "lab": {
+        "l": 80.68,
+        "a": 2.39,
+        "b": 28.61
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G11"
+      ],
+      "sort": 165
+    },
+    {
+      "id": "mard-g12",
+      "code": "G12",
+      "name": "G12",
+      "nameZh": "G12",
+      "hex": "#FFC890",
+      "rgb": {
+        "r": 255,
+        "g": 200,
+        "b": 144
+      },
+      "lab": {
+        "l": 84.27,
+        "a": 12.64,
+        "b": 35.46
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G12"
+      ],
+      "sort": 166
+    },
+    {
+      "id": "mard-g13",
+      "code": "G13",
+      "name": "G13",
+      "nameZh": "G13",
+      "hex": "#B7714A",
+      "rgb": {
+        "r": 183,
+        "g": 113,
+        "b": 74
+      },
+      "lab": {
+        "l": 54.42,
+        "a": 23.8,
+        "b": 33.05
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G13"
+      ],
+      "sort": 167
+    },
+    {
+      "id": "mard-g14",
+      "code": "G14",
+      "name": "G14",
+      "nameZh": "G14",
+      "hex": "#8D614C",
+      "rgb": {
+        "r": 141,
+        "g": 97,
+        "b": 76
+      },
+      "lab": {
+        "l": 45.27,
+        "a": 15.19,
+        "b": 19.14
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G14"
+      ],
+      "sort": 168
+    },
+    {
+      "id": "mard-g15",
+      "code": "G15",
+      "name": "G15",
+      "nameZh": "G15",
+      "hex": "#FCF9E0",
+      "rgb": {
+        "r": 252,
+        "g": 249,
+        "b": 224
+      },
+      "lab": {
+        "l": 97.56,
+        "a": -3.15,
+        "b": 12.36
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G15"
+      ],
+      "sort": 169
+    },
+    {
+      "id": "mard-g16",
+      "code": "G16",
+      "name": "G16",
+      "nameZh": "G16",
+      "hex": "#F2D9BA",
+      "rgb": {
+        "r": 242,
+        "g": 217,
+        "b": 186
+      },
+      "lab": {
+        "l": 87.99,
+        "a": 3.92,
+        "b": 18.44
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G16"
+      ],
+      "sort": 170
+    },
+    {
+      "id": "mard-g17",
+      "code": "G17",
+      "name": "G17",
+      "nameZh": "G17",
+      "hex": "#78524B",
+      "rgb": {
+        "r": 120,
+        "g": 82,
+        "b": 75
+      },
+      "lab": {
+        "l": 38.79,
+        "a": 14.91,
+        "b": 10.5
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G17"
+      ],
+      "sort": 171
+    },
+    {
+      "id": "mard-g18",
+      "code": "G18",
+      "name": "G18",
+      "nameZh": "G18",
+      "hex": "#FFE4CC",
+      "rgb": {
+        "r": 255,
+        "g": 228,
+        "b": 204
+      },
+      "lab": {
+        "l": 92.18,
+        "a": 5.56,
+        "b": 15.09
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G18"
+      ],
+      "sort": 172
+    },
+    {
+      "id": "mard-g19",
+      "code": "G19",
+      "name": "G19",
+      "nameZh": "G19",
+      "hex": "#E07935",
+      "rgb": {
+        "r": 224,
+        "g": 121,
+        "b": 53
+      },
+      "lab": {
+        "l": 61.47,
+        "a": 35.16,
+        "b": 53.05
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G19"
+      ],
+      "sort": 173
+    },
+    {
+      "id": "mard-g2",
+      "code": "G2",
+      "name": "G2",
+      "nameZh": "G2",
+      "hex": "#FFC4AA",
+      "rgb": {
+        "r": 255,
+        "g": 196,
+        "b": 170
+      },
+      "lab": {
+        "l": 83.78,
+        "a": 17.62,
+        "b": 21.19
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G2"
+      ],
+      "sort": 174
+    },
+    {
+      "id": "mard-g20",
+      "code": "G20",
+      "name": "G20",
+      "nameZh": "G20",
+      "hex": "#A94023",
+      "rgb": {
+        "r": 169,
+        "g": 64,
+        "b": 35
+      },
+      "lab": {
+        "l": 41.57,
+        "a": 41.61,
+        "b": 39.02
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G20"
+      ],
+      "sort": 175
+    },
+    {
+      "id": "mard-g21",
+      "code": "G21",
+      "name": "G21",
+      "nameZh": "G21",
+      "hex": "#B88558",
+      "rgb": {
+        "r": 184,
+        "g": 133,
+        "b": 88
+      },
+      "lab": {
+        "l": 59.59,
+        "a": 14.3,
+        "b": 31.86
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G21"
+      ],
+      "sort": 176
+    },
+    {
+      "id": "mard-g3",
+      "code": "G3",
+      "name": "G3",
+      "nameZh": "G3",
+      "hex": "#F4C3A5",
+      "rgb": {
+        "r": 244,
+        "g": 195,
+        "b": 165
+      },
+      "lab": {
+        "l": 82.37,
+        "a": 13.36,
+        "b": 21.73
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G3"
+      ],
+      "sort": 177
+    },
+    {
+      "id": "mard-g4",
+      "code": "G4",
+      "name": "G4",
+      "nameZh": "G4",
+      "hex": "#E1B383",
+      "rgb": {
+        "r": 225,
+        "g": 179,
+        "b": 131
+      },
+      "lab": {
+        "l": 76,
+        "a": 10.46,
+        "b": 30.84
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G4"
+      ],
+      "sort": 178
+    },
+    {
+      "id": "mard-g5",
+      "code": "G5",
+      "name": "G5",
+      "nameZh": "G5",
+      "hex": "#EDB045",
+      "rgb": {
+        "r": 237,
+        "g": 176,
+        "b": 69
+      },
+      "lab": {
+        "l": 75.75,
+        "a": 12.2,
+        "b": 61.08
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G5"
+      ],
+      "sort": 179
+    },
+    {
+      "id": "mard-g6",
+      "code": "G6",
+      "name": "G6",
+      "nameZh": "G6",
+      "hex": "#E99C17",
+      "rgb": {
+        "r": 233,
+        "g": 156,
+        "b": 23
+      },
+      "lab": {
+        "l": 70.29,
+        "a": 19.62,
+        "b": 71.21
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G6"
+      ],
+      "sort": 180
+    },
+    {
+      "id": "mard-g7",
+      "code": "G7",
+      "name": "G7",
+      "nameZh": "G7",
+      "hex": "#9D5B3E",
+      "rgb": {
+        "r": 157,
+        "g": 91,
+        "b": 62
+      },
+      "lab": {
+        "l": 45.63,
+        "a": 24.19,
+        "b": 28.19
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G7"
+      ],
+      "sort": 181
+    },
+    {
+      "id": "mard-g8",
+      "code": "G8",
+      "name": "G8",
+      "nameZh": "G8",
+      "hex": "#753832",
+      "rgb": {
+        "r": 117,
+        "g": 56,
+        "b": 50
+      },
+      "lab": {
+        "l": 31.44,
+        "a": 26.12,
+        "b": 16.18
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G8"
+      ],
+      "sort": 182
+    },
+    {
+      "id": "mard-g9",
+      "code": "G9",
+      "name": "G9",
+      "nameZh": "G9",
+      "hex": "#E6B483",
+      "rgb": {
+        "r": 230,
+        "g": 180,
+        "b": 131
+      },
+      "lab": {
+        "l": 76.74,
+        "a": 11.92,
+        "b": 31.91
+      },
+      "category": "series-G",
+      "available": true,
+      "aliases": [
+        "Mard_G9"
+      ],
+      "sort": 183
+    },
+    {
+      "id": "mard-h1",
+      "code": "H1",
+      "name": "H1",
+      "nameZh": "H1",
+      "hex": "#FDFBFF",
+      "rgb": {
+        "r": 253,
+        "g": 251,
+        "b": 255
+      },
+      "lab": {
+        "l": 98.87,
+        "a": 1.36,
+        "b": -1.68
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H1"
+      ],
+      "sort": 184
+    },
+    {
+      "id": "mard-h10",
+      "code": "H10",
+      "name": "H10",
+      "nameZh": "H10",
+      "hex": "#EEE9EA",
+      "rgb": {
+        "r": 238,
+        "g": 233,
+        "b": 234
+      },
+      "lab": {
+        "l": 92.75,
+        "a": 1.85,
+        "b": 0.11
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H10"
+      ],
+      "sort": 185
+    },
+    {
+      "id": "mard-h11",
+      "code": "H11",
+      "name": "H11",
+      "nameZh": "H11",
+      "hex": "#CECDD5",
+      "rgb": {
+        "r": 206,
+        "g": 205,
+        "b": 213
+      },
+      "lab": {
+        "l": 82.69,
+        "a": 1.82,
+        "b": -3.84
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H11"
+      ],
+      "sort": 186
+    },
+    {
+      "id": "mard-h12",
+      "code": "H12",
+      "name": "H12",
+      "nameZh": "H12",
+      "hex": "#FFF5ED",
+      "rgb": {
+        "r": 255,
+        "g": 245,
+        "b": 237
+      },
+      "lab": {
+        "l": 97.1,
+        "a": 2,
+        "b": 5.04
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H12"
+      ],
+      "sort": 187
+    },
+    {
+      "id": "mard-h13",
+      "code": "H13",
+      "name": "H13",
+      "nameZh": "H13",
+      "hex": "#F5ECD2",
+      "rgb": {
+        "r": 245,
+        "g": 236,
+        "b": 210
+      },
+      "lab": {
+        "l": 93.48,
+        "a": -1.21,
+        "b": 13.7
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H13"
+      ],
+      "sort": 188
+    },
+    {
+      "id": "mard-h14",
+      "code": "H14",
+      "name": "H14",
+      "nameZh": "H14",
+      "hex": "#CFD7D3",
+      "rgb": {
+        "r": 207,
+        "g": 215,
+        "b": 211
+      },
+      "lab": {
+        "l": 85.29,
+        "a": -3.44,
+        "b": 1.03
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H14"
+      ],
+      "sort": 189
+    },
+    {
+      "id": "mard-h15",
+      "code": "H15",
+      "name": "H15",
+      "nameZh": "H15",
+      "hex": "#98A6A8",
+      "rgb": {
+        "r": 152,
+        "g": 166,
+        "b": 168
+      },
+      "lab": {
+        "l": 67.11,
+        "a": -4.5,
+        "b": -2.72
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H15"
+      ],
+      "sort": 190
+    },
+    {
+      "id": "mard-h16",
+      "code": "H16",
+      "name": "H16",
+      "nameZh": "H16",
+      "hex": "#1D1414",
+      "rgb": {
+        "r": 29,
+        "g": 20,
+        "b": 20
+      },
+      "lab": {
+        "l": 7.34,
+        "a": 4.53,
+        "b": 1.61
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H16"
+      ],
+      "sort": 191
+    },
+    {
+      "id": "mard-h17",
+      "code": "H17",
+      "name": "H17",
+      "nameZh": "H17",
+      "hex": "#F1EDED",
+      "rgb": {
+        "r": 241,
+        "g": 237,
+        "b": 237
+      },
+      "lab": {
+        "l": 94.05,
+        "a": 1.34,
+        "b": 0.47
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H17"
+      ],
+      "sort": 192
+    },
+    {
+      "id": "mard-h18",
+      "code": "H18",
+      "name": "H18",
+      "nameZh": "H18",
+      "hex": "#FFFDF0",
+      "rgb": {
+        "r": 255,
+        "g": 253,
+        "b": 240
+      },
+      "lab": {
+        "l": 99.14,
+        "a": -1.55,
+        "b": 6.45
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H18"
+      ],
+      "sort": 193
+    },
+    {
+      "id": "mard-h19",
+      "code": "H19",
+      "name": "H19",
+      "nameZh": "H19",
+      "hex": "#F6EFE2",
+      "rgb": {
+        "r": 246,
+        "g": 239,
+        "b": 226
+      },
+      "lab": {
+        "l": 94.66,
+        "a": 0.16,
+        "b": 7.12
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H19"
+      ],
+      "sort": 194
+    },
+    {
+      "id": "mard-h2",
+      "code": "H2",
+      "name": "H2",
+      "nameZh": "H2",
+      "hex": "#FEFFFF",
+      "rgb": {
+        "r": 254,
+        "g": 255,
+        "b": 255
+      },
+      "lab": {
+        "l": 99.93,
+        "a": -0.33,
+        "b": -0.12
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H2"
+      ],
+      "sort": 195
+    },
+    {
+      "id": "mard-h20",
+      "code": "H20",
+      "name": "H20",
+      "nameZh": "H20",
+      "hex": "#949FA3",
+      "rgb": {
+        "r": 148,
+        "g": 159,
+        "b": 163
+      },
+      "lab": {
+        "l": 64.75,
+        "a": -3.08,
+        "b": -3.42
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H20"
+      ],
+      "sort": 196
+    },
+    {
+      "id": "mard-h21",
+      "code": "H21",
+      "name": "H21",
+      "nameZh": "H21",
+      "hex": "#FFFBE1",
+      "rgb": {
+        "r": 255,
+        "g": 251,
+        "b": 225
+      },
+      "lab": {
+        "l": 98.31,
+        "a": -2.95,
+        "b": 12.94
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H21"
+      ],
+      "sort": 197
+    },
+    {
+      "id": "mard-h22",
+      "code": "H22",
+      "name": "H22",
+      "nameZh": "H22",
+      "hex": "#CACAD4",
+      "rgb": {
+        "r": 202,
+        "g": 202,
+        "b": 212
+      },
+      "lab": {
+        "l": 81.59,
+        "a": 1.87,
+        "b": -4.96
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H22"
+      ],
+      "sort": 198
+    },
+    {
+      "id": "mard-h23",
+      "code": "H23",
+      "name": "H23",
+      "nameZh": "H23",
+      "hex": "#9A9D94",
+      "rgb": {
+        "r": 154,
+        "g": 157,
+        "b": 148
+      },
+      "lab": {
+        "l": 64.26,
+        "a": -2.78,
+        "b": 4.33
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H23"
+      ],
+      "sort": 199
+    },
+    {
+      "id": "mard-h3",
+      "code": "H3",
+      "name": "H3",
+      "nameZh": "H3",
+      "hex": "#B6B1BA",
+      "rgb": {
+        "r": 182,
+        "g": 177,
+        "b": 186
+      },
+      "lab": {
+        "l": 72.85,
+        "a": 3.45,
+        "b": -3.95
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H3"
+      ],
+      "sort": 200
+    },
+    {
+      "id": "mard-h4",
+      "code": "H4",
+      "name": "H4",
+      "nameZh": "H4",
+      "hex": "#89858C",
+      "rgb": {
+        "r": 137,
+        "g": 133,
+        "b": 140
+      },
+      "lab": {
+        "l": 56.07,
+        "a": 2.87,
+        "b": -3.22
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H4"
+      ],
+      "sort": 201
+    },
+    {
+      "id": "mard-h5",
+      "code": "H5",
+      "name": "H5",
+      "nameZh": "H5",
+      "hex": "#48464E",
+      "rgb": {
+        "r": 72,
+        "g": 70,
+        "b": 78
+      },
+      "lab": {
+        "l": 30.18,
+        "a": 2.64,
+        "b": -4.48
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H5"
+      ],
+      "sort": 202
+    },
+    {
+      "id": "mard-h6",
+      "code": "H6",
+      "name": "H6",
+      "nameZh": "H6",
+      "hex": "#2F2B2F",
+      "rgb": {
+        "r": 47,
+        "g": 43,
+        "b": 47
+      },
+      "lab": {
+        "l": 18.09,
+        "a": 2.74,
+        "b": -1.93
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H6"
+      ],
+      "sort": 203
+    },
+    {
+      "id": "mard-h7",
+      "code": "H7",
+      "name": "H7",
+      "nameZh": "H7",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "lab": {
+        "l": 0,
+        "a": 0,
+        "b": 0
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H7"
+      ],
+      "sort": 204
+    },
+    {
+      "id": "mard-h8",
+      "code": "H8",
+      "name": "H8",
+      "nameZh": "H8",
+      "hex": "#E7D6DB",
+      "rgb": {
+        "r": 231,
+        "g": 214,
+        "b": 219
+      },
+      "lab": {
+        "l": 87.09,
+        "a": 6.7,
+        "b": -0.34
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H8"
+      ],
+      "sort": 205
+    },
+    {
+      "id": "mard-h9",
+      "code": "H9",
+      "name": "H9",
+      "nameZh": "H9",
+      "hex": "#EDEDED",
+      "rgb": {
+        "r": 237,
+        "g": 237,
+        "b": 237
+      },
+      "lab": {
+        "l": 93.75,
+        "a": 0,
+        "b": 0
+      },
+      "category": "series-H",
+      "available": true,
+      "aliases": [
+        "Mard_H9"
+      ],
+      "sort": 206
+    },
+    {
+      "id": "mard-m1",
+      "code": "M1",
+      "name": "M1",
+      "nameZh": "M1",
+      "hex": "#BCC6B8",
+      "rgb": {
+        "r": 188,
+        "g": 198,
+        "b": 184
+      },
+      "lab": {
+        "l": 78.78,
+        "a": -6.01,
+        "b": 5.83
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M1"
+      ],
+      "sort": 207
+    },
+    {
+      "id": "mard-m10",
+      "code": "M10",
+      "name": "M10",
+      "nameZh": "M10",
+      "hex": "#C5B2BC",
+      "rgb": {
+        "r": 197,
+        "g": 178,
+        "b": 188
+      },
+      "lab": {
+        "l": 74.41,
+        "a": 8.54,
+        "b": -2.6
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M10"
+      ],
+      "sort": 208
+    },
+    {
+      "id": "mard-m11",
+      "code": "M11",
+      "name": "M11",
+      "nameZh": "M11",
+      "hex": "#9F7594",
+      "rgb": {
+        "r": 159,
+        "g": 117,
+        "b": 148
+      },
+      "lab": {
+        "l": 54.27,
+        "a": 21.69,
+        "b": -10.32
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M11"
+      ],
+      "sort": 209
+    },
+    {
+      "id": "mard-m12",
+      "code": "M12",
+      "name": "M12",
+      "nameZh": "M12",
+      "hex": "#644749",
+      "rgb": {
+        "r": 100,
+        "g": 71,
+        "b": 73
+      },
+      "lab": {
+        "l": 33.34,
+        "a": 12.74,
+        "b": 3.72
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M12"
+      ],
+      "sort": 210
+    },
+    {
+      "id": "mard-m13",
+      "code": "M13",
+      "name": "M13",
+      "nameZh": "M13",
+      "hex": "#D19066",
+      "rgb": {
+        "r": 209,
+        "g": 144,
+        "b": 102
+      },
+      "lab": {
+        "l": 65.33,
+        "a": 19.93,
+        "b": 32.14
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M13"
+      ],
+      "sort": 211
+    },
+    {
+      "id": "mard-m14",
+      "code": "M14",
+      "name": "M14",
+      "nameZh": "M14",
+      "hex": "#C77362",
+      "rgb": {
+        "r": 199,
+        "g": 115,
+        "b": 98
+      },
+      "lab": {
+        "l": 57.36,
+        "a": 31.25,
+        "b": 23.75
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M14"
+      ],
+      "sort": 212
+    },
+    {
+      "id": "mard-m15",
+      "code": "M15",
+      "name": "M15",
+      "nameZh": "M15",
+      "hex": "#757D78",
+      "rgb": {
+        "r": 117,
+        "g": 125,
+        "b": 120
+      },
+      "lab": {
+        "l": 51.62,
+        "a": -4,
+        "b": 1.7
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M15"
+      ],
+      "sort": 213
+    },
+    {
+      "id": "mard-m2",
+      "code": "M2",
+      "name": "M2",
+      "nameZh": "M2",
+      "hex": "#8AA386",
+      "rgb": {
+        "r": 138,
+        "g": 163,
+        "b": 134
+      },
+      "lab": {
+        "l": 64.42,
+        "a": -14.41,
+        "b": 12.21
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M2"
+      ],
+      "sort": 214
+    },
+    {
+      "id": "mard-m3",
+      "code": "M3",
+      "name": "M3",
+      "nameZh": "M3",
+      "hex": "#697D80",
+      "rgb": {
+        "r": 105,
+        "g": 125,
+        "b": 128
+      },
+      "lab": {
+        "l": 50.95,
+        "a": -6.58,
+        "b": -4.07
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M3"
+      ],
+      "sort": 215
+    },
+    {
+      "id": "mard-m4",
+      "code": "M4",
+      "name": "M4",
+      "nameZh": "M4",
+      "hex": "#E3D2BC",
+      "rgb": {
+        "r": 227,
+        "g": 210,
+        "b": 188
+      },
+      "lab": {
+        "l": 85.03,
+        "a": 2.34,
+        "b": 13.03
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M4"
+      ],
+      "sort": 216
+    },
+    {
+      "id": "mard-m5",
+      "code": "M5",
+      "name": "M5",
+      "nameZh": "M5",
+      "hex": "#D0CCAA",
+      "rgb": {
+        "r": 208,
+        "g": 204,
+        "b": 170
+      },
+      "lab": {
+        "l": 81.56,
+        "a": -4.23,
+        "b": 17.48
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M5"
+      ],
+      "sort": 217
+    },
+    {
+      "id": "mard-m6",
+      "code": "M6",
+      "name": "M6",
+      "nameZh": "M6",
+      "hex": "#B0A782",
+      "rgb": {
+        "r": 176,
+        "g": 167,
+        "b": 130
+      },
+      "lab": {
+        "l": 68.37,
+        "a": -2.74,
+        "b": 20.35
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M6"
+      ],
+      "sort": 218
+    },
+    {
+      "id": "mard-m7",
+      "code": "M7",
+      "name": "M7",
+      "nameZh": "M7",
+      "hex": "#B4A497",
+      "rgb": {
+        "r": 180,
+        "g": 164,
+        "b": 151
+      },
+      "lab": {
+        "l": 68.38,
+        "a": 3.61,
+        "b": 8.85
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M7"
+      ],
+      "sort": 219
+    },
+    {
+      "id": "mard-m8",
+      "code": "M8",
+      "name": "M8",
+      "nameZh": "M8",
+      "hex": "#B38281",
+      "rgb": {
+        "r": 179,
+        "g": 130,
+        "b": 129
+      },
+      "lab": {
+        "l": 59.1,
+        "a": 18.74,
+        "b": 8.01
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M8"
+      ],
+      "sort": 220
+    },
+    {
+      "id": "mard-m9",
+      "code": "M9",
+      "name": "M9",
+      "nameZh": "M9",
+      "hex": "#A58767",
+      "rgb": {
+        "r": 165,
+        "g": 135,
+        "b": 103
+      },
+      "lab": {
+        "l": 58.33,
+        "a": 6.8,
+        "b": 21.51
+      },
+      "category": "series-M",
+      "available": true,
+      "aliases": [
+        "Mard_M9"
+      ],
+      "sort": 221
+    }
+  ]
+}
