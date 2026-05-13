@@ -5,6 +5,7 @@ import { fileToSourceImageState } from "@/lib/image-file"
 import { usePatternStore } from "@/features/pattern/store/pattern.store"
 import {
   selectCanGenerate,
+  selectCanExport,
   selectPatternResult,
   selectTotalBeads,
   selectUsageList,
@@ -23,12 +24,14 @@ export function PatternWorkbench() {
   const totalBeads = usePatternStore(selectTotalBeads)
   const usedColorCount = usePatternStore(selectUsedColorCount)
   const canGenerate = usePatternStore(selectCanGenerate)
+  const canExport = usePatternStore(selectCanExport)
 
   const setSourceImage = usePatternStore((state) => state.setSourceImage)
   const updateGridSettings = usePatternStore((state) => state.updateGridSettings)
   const updatePaletteSettings = usePatternStore((state) => state.updatePaletteSettings)
   const updateMatcherSettings = usePatternStore((state) => state.updateMatcherSettings)
   const generatePattern = usePatternStore((state) => state.generatePattern)
+  const exportPattern = usePatternStore((state) => state.exportPattern)
   const clearMessages = usePatternStore((state) => state.clearMessages)
 
   const [isReadingFile, setIsReadingFile] = useState(false)
@@ -203,6 +206,15 @@ export function PatternWorkbench() {
             onClick={() => void generatePattern()}
           >
             {asyncState.isGenerating ? "生成中..." : "生成图纸"}
+          </button>
+
+          <button
+            type="button"
+            className="ghost-button secondary-action"
+            disabled={!canExport || asyncState.isExporting}
+            onClick={() => void exportPattern("png")}
+          >
+            {asyncState.isExporting ? "导出中..." : "导出 PNG"}
           </button>
 
           {ui.errors.length > 0 ? (

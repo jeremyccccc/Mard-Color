@@ -2,6 +2,7 @@ import { create } from "zustand"
 import { generatePatternUseCase } from "@/application/pattern/generate-pattern"
 import { paletteProvider } from "@/domain/palette/palette.provider"
 import { patternGenerator } from "@/domain/pattern/pattern-services"
+import { exportPatternAsPng } from "@/lib/pattern-export"
 import { initialPatternState } from "./pattern.initial"
 import type { PatternStoreActions } from "./pattern.actions"
 import type { PatternResultState, PatternStoreState } from "./pattern.types"
@@ -397,13 +398,30 @@ export const usePatternStore = create<PatternStore>((set, get) => ({
     }
   },
 
-  exportPattern: async (_format) => {
+  exportPattern: async (format) => {
     set((state) => ({
       async: { ...state.async, isExporting: true, lastAction: "export" },
     }))
 
     try {
-      throw new Error("Export is not implemented yet")
+      const state = get()
+
+      if (!state.result) {
+        throw new Error("No pattern available to export")
+      }
+
+      if (format !== "png") {
+        throw new Error(`Export format is not implemented yet: ${format}`)
+      }
+
+      exportPatternAsPng(
+        state.result,
+        `${state.source.fileName?.replace(/\.[^.]+$/, "") || "pattern"}-${state.result.width}x${state.result.height}.png`
+      )
+
+      set((current) => ({
+        async: { ...current.async, isExporting: false },
+      }))
     } catch (error) {
       set((state) => ({
         async: { ...state.async, isExporting: false },

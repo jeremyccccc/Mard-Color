@@ -189,6 +189,10 @@ input[type="number"] {
   color: #61442e;
 }
 
+.secondary-action {
+  border: 1px solid rgba(118, 89, 63, 0.18);
+}
+
 .primary-button {
   background: linear-gradient(135deg, #ca6d32 0%, #a64c2c 100%);
   color: #fff9f2;
