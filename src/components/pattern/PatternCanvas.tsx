@@ -12,6 +12,7 @@ const MAX_CODE_CELL_SIZE = 28
 const TARGET_PREVIEW_SIDE = 960
 const ZOOM_STEP = 1.12
 const AXIS_GUTTER = 36
+const MIN_VISIBLE_LABEL_SIZE = 10
 
 type PanOffset = {
   x: number
@@ -161,6 +162,8 @@ export function PatternCanvas({ result }: PatternCanvasProps) {
   const axisTextSize = Math.max(10, Math.floor(metrics.cellSize * 0.42))
   const axisLabelOffset = AXIS_GUTTER / 2
   const transform = `translate(${pan.x} ${pan.y}) scale(${zoom})`
+  const scaledCellSize = metrics.cellSize * zoom
+  const showLabels = scaledCellSize >= MIN_VISIBLE_LABEL_SIZE
 
   return (
     <div
@@ -183,46 +186,50 @@ export function PatternCanvas({ result }: PatternCanvasProps) {
         >
           {result ? (
             <g transform={transform}>
-              {Array.from({ length: result.width }, (_, index) => {
-                const x = AXIS_GUTTER + index * metrics.cellSize + metrics.cellSize / 2
+              {showLabels
+                ? Array.from({ length: result.width }, (_, index) => {
+                    const x = AXIS_GUTTER + index * metrics.cellSize + metrics.cellSize / 2
 
-                return (
-                  <text
-                    key={`column-${index + 1}`}
-                    x={x}
-                    y={axisLabelOffset}
-                    fill="#6b5b4b"
-                    fontSize={axisTextSize}
-                    fontWeight={700}
-                    fontFamily="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif"
-                    textAnchor="middle"
-                    dominantBaseline="middle"
-                    pointerEvents="none"
-                  >
-                    {index + 1}
-                  </text>
-                )
-              })}
-              {Array.from({ length: result.height }, (_, index) => {
-                const y = AXIS_GUTTER + index * metrics.cellSize + metrics.cellSize / 2
+                    return (
+                      <text
+                        key={`column-${index + 1}`}
+                        x={x}
+                        y={axisLabelOffset}
+                        fill="#6b5b4b"
+                        fontSize={axisTextSize}
+                        fontWeight={700}
+                        fontFamily="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif"
+                        textAnchor="middle"
+                        dominantBaseline="middle"
+                        pointerEvents="none"
+                      >
+                        {index + 1}
+                      </text>
+                    )
+                  })
+                : null}
+              {showLabels
+                ? Array.from({ length: result.height }, (_, index) => {
+                    const y = AXIS_GUTTER + index * metrics.cellSize + metrics.cellSize / 2
 
-                return (
-                  <text
-                    key={`row-${index + 1}`}
-                    x={axisLabelOffset}
-                    y={y}
-                    fill="#6b5b4b"
-                    fontSize={axisTextSize}
-                    fontWeight={700}
-                    fontFamily="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif"
-                    textAnchor="middle"
-                    dominantBaseline="middle"
-                    pointerEvents="none"
-                  >
-                    {index + 1}
-                  </text>
-                )
-              })}
+                    return (
+                      <text
+                        key={`row-${index + 1}`}
+                        x={axisLabelOffset}
+                        y={y}
+                        fill="#6b5b4b"
+                        fontSize={axisTextSize}
+                        fontWeight={700}
+                        fontFamily="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif"
+                        textAnchor="middle"
+                        dominantBaseline="middle"
+                        pointerEvents="none"
+                      >
+                        {index + 1}
+                      </text>
+                    )
+                  })
+                : null}
               {result.cells.map((cell) => {
                 const x = AXIS_GUTTER + cell.x * metrics.cellSize
                 const y = AXIS_GUTTER + cell.y * metrics.cellSize
@@ -238,18 +245,20 @@ export function PatternCanvas({ result }: PatternCanvasProps) {
                       stroke="rgba(30, 24, 16, 0.18)"
                       strokeWidth={1}
                     />
-                    <text
-                      x={x + metrics.cellSize / 2}
-                      y={y + metrics.cellSize / 2}
-                      fill={getTextColor(cell.hex)}
-                      fontSize={textSize}
-                      fontFamily="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif"
-                      textAnchor="middle"
-                      dominantBaseline="middle"
-                      pointerEvents="none"
-                    >
-                      {cell.colorCode}
-                    </text>
+                    {showLabels ? (
+                      <text
+                        x={x + metrics.cellSize / 2}
+                        y={y + metrics.cellSize / 2}
+                        fill={getTextColor(cell.hex)}
+                        fontSize={textSize}
+                        fontFamily="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif"
+                        textAnchor="middle"
+                        dominantBaseline="middle"
+                        pointerEvents="none"
+                      >
+                        {cell.colorCode}
+                      </text>
+                    ) : null}
                   </g>
                 )
               })}
