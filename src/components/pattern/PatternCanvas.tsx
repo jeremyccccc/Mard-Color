@@ -11,6 +11,7 @@ const MIN_CODE_CELL_SIZE = 18
 const MAX_CODE_CELL_SIZE = 28
 const TARGET_PREVIEW_SIDE = 960
 const ZOOM_STEP = 1.12
+const AXIS_GUTTER = 36
 
 type PanOffset = {
   x: number
@@ -157,6 +158,8 @@ export function PatternCanvas({ result }: PatternCanvasProps) {
   }
 
   const textSize = Math.max(8, Math.floor(metrics.cellSize * 0.4))
+  const axisTextSize = Math.max(10, Math.floor(metrics.cellSize * 0.42))
+  const axisLabelOffset = AXIS_GUTTER / 2
   const transform = `translate(${pan.x} ${pan.y}) scale(${zoom})`
 
   return (
@@ -172,17 +175,57 @@ export function PatternCanvas({ result }: PatternCanvasProps) {
       <div className="pattern-stage">
         <svg
           className="pattern-svg"
-          width={metrics.contentWidth}
-          height={metrics.contentHeight}
-          viewBox={`0 0 ${metrics.contentWidth} ${metrics.contentHeight}`}
+          width={metrics.contentWidth + AXIS_GUTTER}
+          height={metrics.contentHeight + AXIS_GUTTER}
+          viewBox={`0 0 ${metrics.contentWidth + AXIS_GUTTER} ${metrics.contentHeight + AXIS_GUTTER}`}
           role="img"
           aria-label={result ? "拼豆图纸矢量预览" : "等待生成图纸"}
         >
           {result ? (
             <g transform={transform}>
+              {Array.from({ length: result.width }, (_, index) => {
+                const x = AXIS_GUTTER + index * metrics.cellSize + metrics.cellSize / 2
+
+                return (
+                  <text
+                    key={`column-${index + 1}`}
+                    x={x}
+                    y={axisLabelOffset}
+                    fill="#6b5b4b"
+                    fontSize={axisTextSize}
+                    fontWeight={700}
+                    fontFamily="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif"
+                    textAnchor="middle"
+                    dominantBaseline="middle"
+                    pointerEvents="none"
+                  >
+                    {index + 1}
+                  </text>
+                )
+              })}
+              {Array.from({ length: result.height }, (_, index) => {
+                const y = AXIS_GUTTER + index * metrics.cellSize + metrics.cellSize / 2
+
+                return (
+                  <text
+                    key={`row-${index + 1}`}
+                    x={axisLabelOffset}
+                    y={y}
+                    fill="#6b5b4b"
+                    fontSize={axisTextSize}
+                    fontWeight={700}
+                    fontFamily="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif"
+                    textAnchor="middle"
+                    dominantBaseline="middle"
+                    pointerEvents="none"
+                  >
+                    {index + 1}
+                  </text>
+                )
+              })}
               {result.cells.map((cell) => {
-                const x = cell.x * metrics.cellSize
-                const y = cell.y * metrics.cellSize
+                const x = AXIS_GUTTER + cell.x * metrics.cellSize
+                const y = AXIS_GUTTER + cell.y * metrics.cellSize
 
                 return (
                   <g key={`${cell.x}-${cell.y}`}>
@@ -216,14 +259,14 @@ export function PatternCanvas({ result }: PatternCanvasProps) {
               <rect
                 x={0}
                 y={0}
-                width={metrics.contentWidth}
-                height={metrics.contentHeight}
+                width={metrics.contentWidth + AXIS_GUTTER}
+                height={metrics.contentHeight + AXIS_GUTTER}
                 fill="#f4efe6"
                 rx={20}
               />
               <text
-                x={metrics.contentWidth / 2}
-                y={metrics.contentHeight / 2}
+                x={(metrics.contentWidth + AXIS_GUTTER) / 2}
+                y={(metrics.contentHeight + AXIS_GUTTER) / 2}
                 fill="#7a6d5c"
                 fontSize={18}
                 fontWeight={600}
